@@ -1,0 +1,5 @@
+{
+"key1" : "1.5",
+"key2" : "https://www.icloud.com/shortcuts/88781e484a69492d8121110d370ab6fa",
+"key3" : "• Добавлен Updater",
+}
