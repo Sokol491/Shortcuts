@@ -1,5 +1,5 @@
 {
 "key1" : "1.1",
-"key2" : "Link",
-"key3" : "Comments",
+"key2" : "https://www.icloud.com/shortcuts/cc7323c8da5c4dd8a7b25ec6320df39e",
+"key3" : "Это пробная версия апдатера!",
 }
