@@ -1,5 +1,5 @@
 {
-"key1" : "1.5",
-"key2" : "https://www.icloud.com/shortcuts/31af73fa0a474dbca0babba11e66fd86",
+"key1" : "1.6",
+"key2" : "https://www.icloud.com/shortcuts/1c53161b2ab54beda51f77d3b5301a74",
 "key3" : "• Добавлен Updater",
 }
