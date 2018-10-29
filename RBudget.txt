@@ -1,6 +1,5 @@
 {
 "key1" : "1.4",
 "key2" : "https://www.icloud.com/shortcuts/c16dde6733794d5ea6910de0cdc760d3",
-"key3" : "• Добавлен Updater
-• Исправлен баг с пустыми файлами.",
+"key3" : "• Добавлен Updater • Исправлен баг с пустыми файлами.",
 }
