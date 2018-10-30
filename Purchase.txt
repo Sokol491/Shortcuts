@@ -1,5 +1,5 @@
 {
-"key1" : "1.5",
-"key2" : "https://www.icloud.com/shortcuts/13c8a71fe0ab42549e8ddfe21e739709",
-"key3" : "• Добавлен Updater",
+"key1" : "1.6",
+"key2" : "https://www.icloud.com/shortcuts/54e682f117d141cc9d376ff97250c0a5",
+"key3" : "• Добавлен Updater. &• Исправлен баг с пустыми файлами. &• Добавлен способ отправки списка покупок через iMessage/СМС",
 }
