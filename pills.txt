@@ -1,5 +1,5 @@
 {
 "key1" : "1.4",
-"key2" : "https://www.icloud.com/shortcuts/b8f601a3aec3456cb546db08f72b6770",
+"key2" : "https://www.icloud.com/shortcuts/1e502b09f908423399b02518d6447bf3",
 "key3" : "• Добавлен Updater &• Исправлен баг с пустыми файлами. &• Shortcut переведен на Английский язык.",
 }
