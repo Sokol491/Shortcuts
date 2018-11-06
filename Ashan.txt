@@ -1,0 +1,5 @@
+{
+"key1" : "1.0",
+"key2" : "https://www.icloud.com/shortcuts/a93a30dfd0284f209289766a928c4e9a",
+"key3" : "• Один&• Два&• Три",
+}
