@@ -1,5 +1,5 @@
 {
-"Квартира" : "
+"Квартира" : 
 	{
 	"Плесень на стенах" : "https://roszkh.ru/problems/kvartira-plesen-na-stenah",
 	"Низкая температура горячей воды" : "https://roszkh.ru/problems/kvartira-nizkaya-temperatura-goryachey-vody",
@@ -11,7 +11,7 @@
 	"Не работает вентиляция" : "https://roszkh.ru/problems/kvartira-ne-rabotaet-ventilyatsiya",
 	"Не топят батареи" : "https://roszkh.ru/problems/kvartira-ne-topyat-batarei",
 	"Другая" : "https://roszkh.ru/problems/kvartira-drugaya",
-	}",
+	},
 "Подъезд" : "",
 "Дом" : "",
 "Двор" : "",
