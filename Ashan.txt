@@ -1,5 +1,5 @@
 {
 "key1" : "1.0",
-"key2" : "https://www.icloud.com/shortcuts/4d9e4c28d35640548bf16b98e9e32381",
+"key2" : "https://www.icloud.com/shortcuts/cd381d43f6604649a6f661835befdf4a",
 "key3" : "• Один&• Два&• Три",
 }
