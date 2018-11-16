@@ -1,5 +1,5 @@
 {
 "key1" : "1.1",
-"key2" : "https://www.icloud.com/shortcuts/6812f1db5dce4ff4bc5a8d88c99a4284",
-"key3" : "• This is a trial version of Updater! &• An example of several innovations. &• Each innovation is displayed on a new line. &•••••••••••••••& by @Sokol491",
+"key2" : "https://www.icloud.com/shortcuts/6fadc15baa66497d9b7a9abb76255fb0",
+"key3" : "• This is a trial version of Updater!&• An example of several innovations. &• Each innovation is displayed on a new line. &•••••••••••••••& by @Sokol491",
 }
