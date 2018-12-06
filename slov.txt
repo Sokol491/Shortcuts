@@ -1,4 +1,8 @@
 {
+"one" :
+{"ЖКХ":"ЖКХ","Почта России":"https:\/\/www.pochta.ru\/claim","РосКомНадзор":"http:\/\/eais.rkn.gov.ru\/feedback\/","ГИБДД":"https:\/\/гибдд.рф\/letter\/я","Президенту РФ":"http:\/\/letters.kremlin.ru\/letters\/send","РосПотребНадзор":"http:\/\/petition.rospotrebnadzor.ru\/petition\/oper_msg_create\/","Федеральная Служба по Надзору":"https:\/\/do.gosuslugi.ru\/orgs\/rcn\/","ФССП":"http:\/\/eais.rkn.gov.ru\/feedback\/"}
+"two" :
+{
 "Квартира" : 
 	{
 	"Плесень на стенах" : "https://roszkh.ru/problems/kvartira-plesen-na-stenah",
@@ -49,4 +53,5 @@
 	"Плохая уборка территории" : "https://roszkh.ru/problems/dvor-plohaya-uborka-territorii",
 	"Другая" : "https://roszkh.ru/problems/dvor-drugaya",
 },
+}
 }
