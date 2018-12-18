@@ -1,3 +1,9 @@
+https://t.me/proxy?server=82.163.72.205&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
+
+https://t.me/proxy?server=vamtlgrm.drproxy.pro&port=1011&secret=d56b62206b7f72baac5e39335bf6faad
+
+https://t.me/proxy?server=mtproto.api.ivanvorobei.by&port=8443&secret=8632dd53741ebe8f5bd192c1cf3c84b4
+
 https://t.me/proxy?server=178.128.244.171&port=443&secret=97661a2ad2bfa895b023d0c3503969bd
 
 https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
