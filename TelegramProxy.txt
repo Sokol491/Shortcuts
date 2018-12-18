@@ -1,3 +1,27 @@
+https://t.me/socks?server=142.44.180.117&port=41565
+
+https://t.me/socks?server=104.238.97.129&port=18699
+
+https://t.me/socks?server=rkn.logicplease.xyz&port=443&user=314752950&pass=Owcy3ARd3YmgbCiX7F8vMmeasxxgBQP0
+
+https://t.me/socks?server=s3.shadowsocks.wtf&port=6692&user=user_H6kP&pass=cFXPdYWuVXJnVR3s
+
+https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
+
+https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
+
+https://t.me/socks?server=rey.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ
+
+https://t.me/socks?server=deimos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
+
+https://t.me/socks?server=phobos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
+
+https://t.me/proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+
+https://t.me/proxy?server=della-2.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+
+https://t.me/proxy?server=della-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+
 https://t.me/socks?server=phjnh.teletype.live&port=1080&user=telegram&pass=telegram
 
 https://t.me/socks?server=cowdn.teletype.live&port=1080&user=telegram&pass=telegram
