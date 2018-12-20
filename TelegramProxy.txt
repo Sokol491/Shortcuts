@@ -1,3 +1,9 @@
+https://t.me/proxy?server=alternative-iran.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=iran-1.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=russia.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
+
 https://t.me/socks?server=96.44.183.149&port=55225
 
 https://t.me/socks?server=103.241.227.110&port=6667
