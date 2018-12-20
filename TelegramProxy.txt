@@ -32,39 +32,17 @@ https://t.me/proxy?server=della-2.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8
 
 https://t.me/proxy?server=della-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
 
-https://t.me/socks?server=phjnh.teletype.live&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=cowdn.teletype.live&port=1080&user=telegram&pass=telegram
-
 https://t.me/proxy?server=ruljj.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d
 
 https://t.me/proxy?server=akgov.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d
 
-https://t.me/socks?server=ftfkr.teletype.live&port=1080&user=telegram&pass=telegram
-
 https://t.me/proxy?server=ir.tgproxy.exchange&port=8443&secret=726564736869656c6476706e2e636f6d
-
-https://t.me/socks?server=r432.tgproxy.run&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=r43271237.teletype.live&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=rmpufgh1.teletype.live&port=1080&user=telegram&pass=telegram
 
 https://t.me/proxy?server=3retws.nimble.zone&port=8443&secret=726564736869656c6476706e2e636f6d
 
 https://t.me/proxy?server=ewrtyfgf.spry.wtf&port=8443&secret=726564736869656c6476706e2e636f6d
 
-https://t.me/socks?server=k45i6.nimble.zone&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=239h4ym.spry.wtf&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=k45i6.nimble.fyi&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=sreju5h4.spry.fail&port=1080&user=telegram&pass=telegram
-
 https://t.me/proxy?server=mtp123.nimble.fyi&port=8443&secret=726564736869656c6476706e2e636f6d
-
-https://t.me/socks?server=s123.nimble.fyi&port=1080&user=telegram&pass=telegram
 
 https://t.me/proxy?server=82.163.72.205&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
 
@@ -76,8 +54,6 @@ https://t.me/proxy?server=178.128.244.171&port=443&secret=97661a2ad2bfa895b023d0
 
 https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
 
-https://t.me/socks?server=jimtw.teletype.live&port=1080&user=telegram&pass=telegram
-
 https://t.me/proxy?server=88.99.217.206&port=3126&secret=1bfc28e3a781b395e50180222fc320b3
 
 https://t.me/proxy?server=mt0.2ch.tf&port=443&secret=ed0f29878317c45aac00232a3287e9d6
@@ -85,8 +61,6 @@ https://t.me/proxy?server=mt0.2ch.tf&port=443&secret=ed0f29878317c45aac00232a328
 https://t.me/proxy?server=142.93.105.87&port=443&secret=97b92dcb69b3ba7cb075010e3b5aeb1e
 
 https://t.me/proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
-
-https://t.me/socks?server=sr123.spry.fail&port=1080&user=telegram&pass=telegram
 
 https://t.me/proxy?server=67.207.79.33&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
 
