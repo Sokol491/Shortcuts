@@ -1,3 +1,5 @@
+https://t.me/socks?server=s3.shadowsocks.wtf&port=6665&user=user_9B4p&pass=qWK2FSM4Wav2zx6m
+
 https://t.me/proxy?server=alternative-iran.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
 
 https://t.me/proxy?server=iran-1.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
