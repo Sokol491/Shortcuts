@@ -1,4 +1,6 @@
-https://t.me/socks?server=142.44.180.117&port=41565
+https://t.me/socks?server=96.44.183.149&port=55225
+
+https://t.me/socks?server=103.241.227.110&port=6667
 
 https://t.me/socks?server=104.238.97.129&port=18699
 
