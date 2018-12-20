@@ -1,5 +1,5 @@
 {
-"key1" : "1.4",
-"key2" : "https://www.icloud.com/shortcuts/501d44ceddd246c8a79163db33af7084",
-"key3" : "• Исправление багов.&• Проведен первый этап по оптимизации команды.&•••••••••••••••& by @Sokol491",
+"key1" : "1.5",
+"key2" : "https://www.icloud.com/shortcuts/6b2bc42bc5db4941b594b0eddc5d50ff",
+"key3" : "• Исправление багов.&•••••••••••••••& by @Sokol491",
 }
