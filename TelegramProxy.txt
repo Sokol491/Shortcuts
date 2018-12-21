@@ -1,3 +1,5 @@
+https://t.me/proxy?server=olympic.mtproto.eu&port=443&secret=dd852abd54be52d9e479aa637d656c9a36
+
 https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=dd00000000000000000000000000000000
 
 https://t.me/proxy?server=BearMTProxy-MTpro.ddns.net&port=80&secret=ddb40bcc741a4ae965c3cc200fed2637ca
