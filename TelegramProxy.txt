@@ -1,3 +1,27 @@
+https://t.me/proxy?server=SAMSUNG-MTP.hopto.org&port=50&secret=ddbc2da37fcb4fe1e095e29e55a75fc291
+
+https://t.me/proxy?server=s203.mtproto.world&port=8880&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=iran-fast.loginto.me&port=80&secret=dd39398f72a48e9c57af836a17dd4b94fb
+
+https://t.me/proxy?server=no-filtering-proxy.dnsup.net&port=443&secret=ddcce326a3387731c9307a6526228206a5
+
+https://t.me/proxy?server=mahnaz-drproxy.tcp4.me&port=443&secret=dde326a3387731c9308a6526226206a1
+
+https://t.me/proxy?server=oooops.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=116.203.2.109&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=lady4.32-b.it&port=80&secret=dd94c82365af0dcaae144b6be415e11227
+
+https://t.me/proxy?server=myporoxy3.hopto.org&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=very-fast.sytes.net&port=442&secret=dd7ae68ab98cdac7322a5af808a9c03b2c
+
+https://t.me/proxy?server=ma.mtproto.world&port=443&secret=dd6576f5d10749c76083ce61d68522755c
+
+https://t.me/proxy?server=One.fastMt.tk&port=445&secret=dd8c4d7b6f60efe086c7ac9efdba8fa54a
+
 https://t.me/proxy?server=olympic.mtproto.eu&port=443&secret=dd852abd54be52d9e479aa637d656c9a36
 
 https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=dd00000000000000000000000000000000
