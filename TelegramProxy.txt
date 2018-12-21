@@ -1,5 +1,3 @@
-https://t.me/socks?server=s3.shadowsocks.wtf&port=6665&user=user_9B4p&pass=qWK2FSM4Wav2zx6m
-
 https://t.me/proxy?server=alternative-iran.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
 
 https://t.me/proxy?server=iran-1.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
@@ -13,8 +11,6 @@ https://t.me/socks?server=103.241.227.110&port=6667
 https://t.me/socks?server=104.238.97.129&port=18699
 
 https://t.me/socks?server=rkn.logicplease.xyz&port=443&user=314752950&pass=Owcy3ARd3YmgbCiX7F8vMmeasxxgBQP0
-
-https://t.me/socks?server=s3.shadowsocks.wtf&port=6692&user=user_H6kP&pass=cFXPdYWuVXJnVR3s
 
 https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
 
@@ -37,8 +33,6 @@ https://t.me/proxy?server=ruljj.tgproxy.network&port=8443&secret=726564736869656
 https://t.me/proxy?server=akgov.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d
 
 https://t.me/proxy?server=ir.tgproxy.exchange&port=8443&secret=726564736869656c6476706e2e636f6d
-
-https://t.me/proxy?server=3retws.nimble.zone&port=8443&secret=726564736869656c6476706e2e636f6d
 
 https://t.me/proxy?server=ewrtyfgf.spry.wtf&port=8443&secret=726564736869656c6476706e2e636f6d
 
