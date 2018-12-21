@@ -1,3 +1,5 @@
+https://t.me/proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
+
 https://t.me/proxy?server=antifilter4.n4t.co&port=80&secret=dd6e8d1a25d61496d135186bbfb411c05c
 
 https://t.me/proxy?server=cheetah.n4t.co&port=80&secret=dd39e0a8dc57e42715504ac845f03544f0
