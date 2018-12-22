@@ -1,3 +1,29 @@
+https://t.me/proxy?server=khakbarsari.myddns.rocks&port=80&secret=dd9f81bee3ddb0127142e6737211aae153
+
+https://t.me/proxy?server=MrDeaD.GQ&port=98&secret=ddae314ad22a1f139d4c1125e2c4aabeaa
+
+https://t.me/proxy?server=95.216.178.138&port=1080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=divar.viewdns.net&port=80&secret=ddb40bcc741a4ae965c3cc200fed2637ca
+
+https://t.me/proxy?server=142.93.230.156&port=80&secret=21e4763a9865bb58f49581aa1479880e
+
+https://t.me/proxy?server=fal-gahve.mtproxies.tk&port=443&secret=dd3ca64cd31ea95a2d1aae98d7dfb92349
+
+https://t.me/proxy?server=142.93.136.146&port=443&secret=15992d07443bded269a3e79e35f56629
+
+https://t.me/proxy?server=142.93.239.73&port=443&secret=15992d07443bded269a3e79e35f56629
+
+https://t.me/proxy?server=142.93.233.155&port=443&secret=15992d07443bded269a3e79e35f56629
+
+https://t.me/proxy?server=142.93.231.187&port=443&secret=3407439bd62f7ea5b88537544efa6e6b
+
+https://t.me/proxy?server=mtproxy-milshou.dnsup.net&port=80&secret=21e4763a9865bb58f49581aa1479880e
+
+https://t.me/proxy?server=SAMSUNG-Galaxy.ddns.net&port=50&secret=ddbc2da37fcb4fe1e095e29e55a75fc291
+
+https://t.me/proxy?server=mt-sitizen.001www.com&port=4466&secret=d41d8cd98f00b204e9800998ecf8527d
+
 https://t.me/socks?server=phobos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
 
 https://t.me/socks?server=deimos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
@@ -89,8 +115,6 @@ https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=dd00000000000000
 https://t.me/proxy?server=olympic.mtproto.eu&port=443&secret=dd852abd54be52d9e479aa637d656c9a36
 
 https://t.me/proxy?server=One.fastMt.tk&port=445&secret=dd8c4d7b6f60efe086c7ac9efdba8fa54a
-
-https://t.me/proxy?server=ma.mtproto.world&port=443&secret=dd6576f5d10749c76083ce61d68522755c
 
 https://t.me/proxy?server=very-fast.sytes.net&port=442&secret=dd7ae68ab98cdac7322a5af808a9c03b2c
 
