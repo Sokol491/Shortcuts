@@ -2,11 +2,7 @@ https://t.me/socks?server=tkhpg.teletype.live&port=1080&user=telegram&pass=teleg
 
 https://t.me/socks?server=d2a5e5.reconnect.rocks&port=1080&user=3559738&pass=11a1fcc2
 
-https://t.me/socks?server=u0k12.tgproxy.me&port=1080&user=telegram&pass=telegram
-
 https://t.me/socks?server=sr123.spry.fail&port=1080&user=telegram&pass=telegram
-
-https://t.me/socks?server=sr.spry.fail&port=1080&user=telegram&pass=telegram
 
 https://t.me/proxy?server=germanproxy.16-b.it&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
 
