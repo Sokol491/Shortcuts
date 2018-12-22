@@ -1,3 +1,7 @@
+https://t.me/proxy?server=89.42.223.26&port=5&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=MTProtoJs.32-b.It&port=443&secret=ddf207f3a3ffd77b5b2ab874709d461e32
+
 https://t.me/proxy?server=142.93.131.245&port=443&secret=4aa41472762ea4a91d1f00085331a0d3
 
 https://t.me/proxy?server=no-filtering-telegram.001www.com&port=443&secret=cce326a3387731c8307a6526228206a6
