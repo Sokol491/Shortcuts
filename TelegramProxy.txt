@@ -1,3 +1,9 @@
+https://t.me/proxy?server=142.93.131.245&port=443&secret=4aa41472762ea4a91d1f00085331a0d3
+
+https://t.me/proxy?server=no-filtering-telegram.001www.com&port=443&secret=cce326a3387731c8307a6526228206a6
+
+https://t.me/proxy?server=142.93.236.228&port=443&secret=24a6a3dfd7122304673c876d22ffe39d
+
 https://t.me/proxy?server=zedfilter.n4t.co&port=80&secret=ddbf7bfba6831c18bddf7396b6ad752ea0
 
 https://t.me/proxy?server=s22-bear.ddns.net&port=80&secret=ddb40bcc741a4ae965c3cc200fed2637ca
@@ -22,15 +28,9 @@ https://t.me/proxy?server=imtproto.gq&port=50&secret=dd8b2394ad2ecef7e607d5f52b3
 
 https://t.me/proxy?server=ce.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
-https://t.me/proxy?server=cheetah.n4t.co&port=80&secret=dd18423752c7e648e7fdb14c1b6968bc2c
-
-https://t.me/proxy?server=116.203.2.112&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
 https://t.me/proxy?server=wi.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=ma.mtproto.world&port=443&secret=dd6576f5d10749c76083ce61d68522755c
-
-https://t.me/proxy?server=185.105.238.220&port=443&secret=013ead6ba0d5427df60cded100779806
 
 https://t.me/proxy?server=khakbarsari.myddns.rocks&port=80&secret=dd9f81bee3ddb0127142e6737211aae153
 
