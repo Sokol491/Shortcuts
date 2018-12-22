@@ -1,3 +1,7 @@
+https://t.me/socks?server=s2.shadowsocks.wtf&port=6674&user=user_PSu7&pass=LaVPU6efUq9p74re
+
+https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
+
 https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
 
 https://t.me/proxy?server=mika-proxy.n4t.co&port=80&secret=dd429f13f7b38d90d65e4ac6c2764bd827
