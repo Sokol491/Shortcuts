@@ -1,4 +1,14 @@
-https://t.me/socks?server=tkhpg.teletype.live&port=1080&user=telegram&pass=telegram
+https://t.me/proxy?server=nice.bearproxies.ml&port=443&secret=dd3575789a56a54b213e3f3466d1b8c33e
+
+https://t.me/proxy?server=imtproto.cf&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=zedfilter1.n4t.co&port=80&secret=ddbf7bfba6831c18bddf7396b6ad752ea0
+
+https://t.me/proxy?server=2728.themtproto.ml&port=443&secret=dd6576f5d10749c76083ce61d68522755c
+
+https://t.me/proxy?server=fastserv.x443.pw&port=80&secret=ddda75f46204a00cb898ac5e1243241a0c
+
+https://t.me/proxy?server=fastserv.x443.pw&port=8080&secret=ddda75f46204a00cb898ac5e1243241a0c
 
 https://t.me/socks?server=d2a5e5.reconnect.rocks&port=1080&user=3559738&pass=11a1fcc2
 
@@ -43,8 +53,6 @@ https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897
 https://t.me/proxy?server=mika-proxy.n4t.co&port=80&secret=dd429f13f7b38d90d65e4ac6c2764bd827
 
 https://t.me/proxy?server=116.203.42.207&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
-https://t.me/proxy?server=khakbarsari.myddns.rocks&port=80&secret=dd9f81bee3ddb0127142e6737211aae153
 
 https://t.me/proxy?server=x.bearproxies.ml&port=443&secret=dd07d9a5ed5517212b66d9bcc448ab9bef
 
