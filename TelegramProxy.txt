@@ -1,3 +1,5 @@
+https://t.me/proxy?server=95.216.189.242&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
 https://t.me/proxy?server=nice.bearproxies.ml&port=443&secret=dd3575789a56a54b213e3f3466d1b8c33e
 
 https://t.me/proxy?server=imtproto.cf&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
