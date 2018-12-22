@@ -1,3 +1,7 @@
+https://t.me/proxy?server=jeniferloopez.soundcast.me&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
+
+https://t.me/proxy?server=95.216.192.205&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
 https://t.me/proxy?server=mtp2.ooguy.com&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
 
 https://t.me/proxy?server=TOP1-MTP.ddns.net&port=45&secret=ddbd2da37fcb4fe1e095e29e55a75fc293
