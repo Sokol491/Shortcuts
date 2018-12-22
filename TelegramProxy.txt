@@ -1,3 +1,11 @@
+https://t.me/proxy?server=xx.bearproxies.ml&port=443&secret=dd333254f8ffbd27d3bced3d60c967638e
+
+https://t.me/proxy?server=antifilter2.n4t.co&port=80&secret=dd21aad99e61cd47a01e981184315cb359
+
+https://t.me/proxy?server=imtproto.ga&port=20&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=shadow.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
 https://t.me/proxy?server=178.128.244.171&port=443&secret=97661a2ad2bfa895b023d0c3503969bd
 
 https://t.me/proxy?server=89.42.223.25&port=20&secret=dd8b2394ad2ecef7e607d5f52b31a45768
@@ -9,20 +17,6 @@ https://t.me/proxy?server=imtproto.ga&port=443&secret=dd8b2394ad2ecef7e607d5f52b
 https://t.me/proxy?server=KinGProxies.GQ&port=5090&secret=dd31ba855271767d7c8ed59a25b9301ff8
 
 https://t.me/proxy?server=116.202.0.166&port=50&secret=ddedea4c5d11849ab8bbb1538623166503
-
-https://t.me/proxy?server=116.203.46.131&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=116.203.2.199&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=116.203.2.200&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=116.203.2.201&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=116.203.2.202&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=116.203.2.204&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=89.42.223.22&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=89.42.223.22&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
@@ -79,10 +73,6 @@ https://t.me/proxy?server=142.93.135.22&port=80&secret=dd5a9ad6bb39cd83d107d480e
 https://t.me/proxy?server=Turbo-Proxy.ddns.net&port=545&secret=dd5068ddd7b6a8939edca0c69d9d680488
 
 https://t.me/proxy?server=Apple-MTP.ddns.net&port=90&secret=83ad96e5b64942a9c1261de554846837
-
-https://t.me/proxy?server=TOP-MTP.ddns.net&port=45&secret=ddbd2da37fcb4fe1e095e29e55a75fc293
-
-https://t.me/proxy?server=SAMSUNG-MTP.hopto.org&port=50&secret=ddbc2da37fcb4fe1e095e29e55a75fc291
 
 https://t.me/proxy?server=s203.mtproto.world&port=8880&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
