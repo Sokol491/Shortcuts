@@ -1,3 +1,9 @@
+https://t.me/proxy?server=Perfect.ooguy.com&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=cheetah.ntdll.top&port=80&secret=dd21e376572d6236c14a57e46a79d12b04
+
+https://t.me/proxy?server=116.203.37.164&port=80&secret=ddd90999de5bd06941a332b1044677369d
+
 https://t.me/proxy?server=77.themtproto.ml&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=nofilter.vpndns.net&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
