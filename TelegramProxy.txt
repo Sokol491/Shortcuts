@@ -1,3 +1,13 @@
+https://t.me/proxy?server=77.themtproto.ml&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=nofilter.vpndns.net&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
+
+https://t.me/proxy?server=proxy-plus.ml&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=mtpprotoproxies.myddns.rocks&port=80&secret=dd23009bc834b85a2091e0d13388c97b96
+
+https://t.me/proxy?server=shoponline.sytes.net&port=7124&secret=ddb5e80217f3180c4ecfc302dd58eca5a2
+
 https://t.me/proxy?server=95.216.179.15&port=50&secret=ddedea4c5d11849ab8bbb1538623166503
 
 https://t.me/proxy?server=116.203.38.80&port=80&secret=ddd90999de5bd06941a332b1044677369d
@@ -25,8 +35,6 @@ https://t.me/proxy?server=jeniferloopez.soundcast.me&port=80&secret=dd59573b0150
 https://t.me/proxy?server=95.216.192.205&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=TOP1-MTP.ddns.net&port=45&secret=ddbd2da37fcb4fe1e095e29e55a75fc293
-
-https://t.me/proxy?server=nofilter.vpndns.net&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
 
 https://t.me/socks?server=socksy.seriyps.ru&port=7777&user=tg-sokol491&pass=9QYf888f
 
@@ -152,8 +160,6 @@ https://t.me/proxy?server=142.93.230.186&port=80&secret=dd5a9ad6bb39cd83d107d480
 
 https://t.me/proxy?server=142.93.230.125&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
 
-https://t.me/proxy?server=185.162.65.29&port=443&secret=ddbf01dee5c7e160fa770f50373683ea10
-
 https://t.me/proxy?server=142.93.134.179&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
 
 https://t.me/proxy?server=178.128.245.48&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
@@ -171,8 +177,6 @@ https://t.me/proxy?server=antifilter4.n4t.co&port=80&secret=dd6e8d1a25d61496d135
 https://t.me/proxy?server=borhan.mypi.co&port=80&secret=dda18b19649dcf6b301f5d14ee35431574
 
 https://t.me/proxy?server=power-proxy3.n4t.co&port=80&secret=974181895c9442d7e0e6060735a96009
-
-https://t.me/proxy?server=dl.MrDeaD.GQ&port=11&secret=dd433f992c457843dab3fc4cdfa1d244a3
 
 https://t.me/proxy?server=89.42.223.22&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
@@ -209,10 +213,6 @@ https://t.me/proxy?server=bear.bearproxies.ml&port=443&secret=dd3575789a56a54b21
 https://t.me/proxy?server=x.bearproxies.ml&port=443&secret=dd07d9a5ed5517212b66d9bcc448ab9bef
 
 https://t.me/proxy?server=116.203.42.207&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
-https://t.me/proxy?server=MTP1.shadowsocks.wtf&port=443&secret=f29640b148781b897c10ecf51938086c
-
-https://t.me/proxy?server=MTP2.shadowsocks.wtf&port=8081&secret=2f10ef5a51d3689938d7825c8c5a8ad8
 
 https://t.me/socks?server=s2.shadowsocks.wtf&port=6674&user=user_PSu7&pass=LaVPU6efUq9p74re
 
