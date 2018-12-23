@@ -1,3 +1,15 @@
+https://t.me/proxy?server=srv.1o2.themtproto.ml&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=tx.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=eroxs.loginto.me&port=5900&secret=dd7158a16baad4339fc251956b3024f3c7
+
+https://t.me/proxy?server=roombot.ga&port=1128&secret=b96150fd16dcc9d4959798d29f68f762
+
+https://t.me/proxy?server=abdollah.tcp4.me&port=443&secret=dd11112233445566778899aabbccddeeff
+
+https://t.me/proxy?server=116.203.42.207&port=1080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
 https://t.me/proxy?server=mika-proxy2.mypi.co&port=80&secret=dd429f13f7b38d90d65e4ac6c2764bd827
 
 https://t.me/proxy?server=mtproto1002.tcp4.me&port=1002&secret=1931d10b55dbd4960c00282b65fc16a4
@@ -24,11 +36,7 @@ https://t.me/proxy?server=mtproto.aafast.org&port=443&secret=a8c836dfa5e127386e1
 
 https://t.me/proxy?server=profile.64-b.it&port=1099&secret=d41d8cd98f00b204e9800998ecf8428f
 
-https://t.me/proxy?server=center.themtproto.ml&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
 https://t.me/proxy?server=saket.tcp4.me&port=80&secret=ddc7aff2bcb6e32ba9743da81e2839c7d9
-
-https://t.me/proxy?server=full-speed.ml&port=8&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=95.216.179.102&port=443&secret=ddedea4c5d11849ab8bbb1538623166503
 
@@ -113,8 +121,6 @@ https://t.me/proxy?server=imtproto.ml&port=50&secret=dd8b2394ad2ecef7e607d5f52b3
 https://t.me/proxy?server=imtproto.ml&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=89.42.223.22&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=power-proxy3.n4t.co&port=80&secret=974181895c9442d7e0e6060735a96009
 
 https://t.me/proxy?server=borhan.mypi.co&port=80&secret=dda18b19649dcf6b301f5d14ee35431574
 
@@ -267,8 +273,6 @@ https://t.me/proxy?server=142.93.236.228&port=443&secret=24a6a3dfd7122304673c876
 https://t.me/proxy?server=no-filtering-telegram.001www.com&port=443&secret=cce326a3387731c8307a6526228206a6
 
 https://t.me/proxy?server=142.93.131.245&port=443&secret=4aa41472762ea4a91d1f00085331a0d3
-
-https://t.me/proxy?server=MTProtoJs.32-b.It&port=443&secret=ddf207f3a3ffd77b5b2ab874709d461e32
 
 https://t.me/proxy?server=89.42.223.26&port=5&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
