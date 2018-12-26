@@ -1,4 +1,22 @@
-https://t.me/proxy?server=fast20.dnsup.net&port=8070&secret=1ceada35ace56da1df530e22a3670136
+https://t.me/proxy?server=95.216.178.146&port=44443&secret=dda4d55a7826d41b853b481a86f44f4a
+
+https://t.me/proxy?server=116.202.0.134&port=1080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=drmtproto-proxy.vpndns.net&port=443&secret=dde326a3387731c9308a6526226206a1
+
+https://t.me/proxy?server=95.216.138.73&port=4443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=ma.mtproto.world&port=443&secret=dd6576f5d10749c76083ce61d68522755c
+
+https://t.me/proxy?server=KinGProxies.CasaCam.net&port=80&secret=dddd52278afecbe83fa58b0432b5c112a0
+
+https://t.me/proxy?server=diamond.vpndns.net&port=80&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=saeedsh.myddns.rocks&port=80&secret=ddad346523397b6469ae8b67382889d1e9
+
+https://t.me/proxy?server=superspeed.vpndns.net&port=80&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=SAMSUNG-Galaxy.ddns.net&port=50&secret=ddbc2da37fcb4fe1e095e29e55a75fc291
 
 https://t.me/proxy?server=Mizan.mypi.co&port=433&secret=dde94eaeb3eab7e27960df8a68c1a2c7
 
@@ -14,10 +32,6 @@ https://t.me/proxy?server=142.93.228.187&port=443&secret=9e7d2149bdd87a7f1fa4bcd
 
 https://t.me/proxy?server=eroxs.loginto.me&port=5900&secret=dd7158a16baad4339fc251956b3024f3c7
 
-https://t.me/proxy?server=116.203.1.160&port=6258&secret=4d0619a4bccce47f2ed87a959fa74364
-
-https://t.me/proxy?server=mtproto1003.tcp4.me&port=1003&secret=5f54fb7c254b2b354663197d423e9cb8
-
 https://t.me/proxy?server=95.216.203.105&port=90&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=olympic.mtproto.eu&port=443&secret=dd852abd54be52d9e479aa637d656c9a36
@@ -29,8 +43,6 @@ https://t.me/proxy?server=cheetaah.32-b.it&port=80&secret=dd21e376572d6236c14a57
 https://t.me/proxy?server=cheetaah.16-b.it&port=80&secret=dd21e376572d6236c14a57e46a79d12b04
 
 https://t.me/proxy?server=Mm.bearproxies.ml&port=443&secret=dd3575789a56a54b213e3f3466d1b8c33e
-
-https://t.me/proxy?server=95.216.178.140&port=80&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=5.56.135.166&port=50&secret=dddc517a7dc2a6360b38e183dc98a2e259
 
