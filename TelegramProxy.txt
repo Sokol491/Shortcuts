@@ -1,3 +1,47 @@
+https://t.me/proxy?server=mercovin.zapto.org&port=1080&secret=ddc85cb0be85ea75ad95dabc1234beaf8f
+
+https://t.me/proxy?server=5.56.135.164&port=3040&secret=dd97aae1204b4666c1c5b85b83470a3e55
+
+https://t.me/proxy?server=LiMit1.x443.pw&port=80&secret=dd4efe1b3bf309a9db95cb3c180aa0775d
+
+https://t.me/proxy?server=Tehran.mypi.co&port=433&secret=dde94eaeb3eab7e27960df8a68c1a2c7
+
+https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=Mydanestanii.kozow.com&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=12o.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Project1.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=7Stars.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=POROXY.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=MTProto.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Myfact.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=TeXaS.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Extra-Speed.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Mydanestani1.webredirect.org&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=FullSpeed.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Myproxy.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Bestproxy.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=Pro.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
 https://t.me/proxy?server=159.65.193.4&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
 
 https://t.me/proxy?server=twiiter-text.n4t.co&port=1080&secret=469fe09b277900a8ae91dcefa736056b
@@ -9,8 +53,6 @@ https://t.me/proxy?server=MrProxy.Ga&port=8080&secret=dd4c5461afe66dad1e35e54e47
 https://t.me/proxy?server=KinGProxies.64-b.it&port=3040&secret=dd97aae1204b4666c1c5b85b83470a3e55
 
 https://t.me/proxy?server=bitcoin.servemp3.com&port=3232&secret=dd4dd8f56c1acd9775d1a90ae7dbdeee
-
-https://t.me/proxy?server=SONY-MTP.ddns.net&port=8080&secret=78b54b6a97fde719bc82c7b542d4a817
 
 https://t.me/proxy?server=cheetah.n4t.co&port=80&secret=dd39e0a8dc57e42715504ac845f03544f0
 
@@ -35,8 +77,6 @@ https://t.me/proxy?server=188.166.84.66&port=80&secret=dd5a9ad6bb39cd83d107d480e
 https://t.me/proxy?server=james-potter.ga&port=8008&secret=ddb0cbcef5a486d9636472ac27f8e11000
 
 https://t.me/proxy?server=best.mtproxies.tk&port=80&secret=dd4a5abb03b69d7c99ead2adae273a4522
-
-https://t.me/proxy?server=mtproto1002.tcp4.me&port=1002&secret=1931d10b55dbd4960c00282b65fc16a4
 
 https://t.me/proxy?server=lmtproto.cf&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
