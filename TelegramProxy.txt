@@ -1,3 +1,23 @@
+https://t.me/proxy?server=159.65.193.4&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
+
+https://t.me/proxy?server=twiiter-text.n4t.co&port=1080&secret=469fe09b277900a8ae91dcefa736056b
+
+https://t.me/proxy?server=185.213.165.127&port=443&secret=dd31ba855271767d7c8ed59a25b9301ff8
+
+https://t.me/proxy?server=MrProxy.Ga&port=8080&secret=dd4c5461afe66dad1e35e54e47e2c184e9
+
+https://t.me/proxy?server=KinGProxies.64-b.it&port=3040&secret=dd97aae1204b4666c1c5b85b83470a3e55
+
+https://t.me/proxy?server=bitcoin.servemp3.com&port=3232&secret=dd4dd8f56c1acd9775d1a90ae7dbdeee
+
+https://t.me/proxy?server=SONY-MTP.ddns.net&port=8080&secret=78b54b6a97fde719bc82c7b542d4a817
+
+https://t.me/proxy?server=cheetah.n4t.co&port=80&secret=dd39e0a8dc57e42715504ac845f03544f0
+
+https://t.me/proxy?server=GhaSem.x443.pw&port=80&secret=ddecfce584297417b2737c5794b6742b00
+
+https://t.me/proxy?server=cl-proxyiran.001www.com&port=443&secret=cce326a3387731c9307a6526228206a5
+
 https://t.me/proxy?server=savagecheetah3.n4t.co&port=80&secret=dd39e0a8dc57e42715504ac845f03544f0
 
 https://t.me/proxy?server=savagecheetah1.n4t.co&port=80&secret=dd39e0a8dc57e42715504ac845f03544f0
@@ -82,8 +102,6 @@ https://t.me/proxy?server=KinGProxies.tcp4.me&port=1080&secret=ddafad2048e742872
 
 https://t.me/proxy?server=194.5.176.240&port=543&secret=dd8e831a18aeed47deaee7c9e2c2d04f37
 
-https://t.me/proxy?server=Proxy.64-b.it&port=8585&secret=d77d3cad9bd24e428585bb082251e984
-
 https://t.me/proxy?server=morgh.hicam.net&port=1020&secret=d41d8cd98f00b204e9800998ecf8427e
 
 https://t.me/proxy?server=gifkadeh.vpndns.net&port=80&secret=ddaa711023bb720925cc711030dd730212
@@ -117,8 +135,6 @@ https://t.me/proxy?server=zedfilter12.n4t.co&port=80&secret=ddbf7bfba6831c18bddf
 https://t.me/proxy?server=fast.vpndns.net&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
 https://t.me/proxy?server=mobogeram.n4t.co&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
-
-https://t.me/proxy?server=MTProtoJs.64-b.it&port=8080&secret=dd4a444444c444a4444a44a44b4444444d
 
 https://t.me/proxy?server=telegramx.n4t.co&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
 
@@ -261,8 +277,6 @@ https://t.me/proxy?server=89.144.188.7&port=8585&secret=dd70941ae5fe315a8ba797e3
 https://t.me/proxy?server=95.216.145.9&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=95.216.209.125&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=95.216.209.122&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=116.203.23.119&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
