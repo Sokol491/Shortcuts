@@ -1,5 +1,5 @@
 {
-"key1" : "1.9",
-"key2" : "https://www.icloud.com/shortcuts/e0b67abee7084576a05c14174b047ad8",
+"key1" : "2.1",
+"key2" : "https://www.icloud.com/shortcuts/c2e446424cde4a27b9fea624b0a4e94b",
 "key3" : "• Исправление багов.&•••••••••••••••& by @Sokol491",
 }
