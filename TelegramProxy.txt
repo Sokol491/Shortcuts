@@ -1,16 +1,66 @@
-https://t.me/proxy?server=95.216.178.201&port=50&secret=ddedea4c5d11849ab8bbb1538623166503
+https://t.me/proxy?server=95.216.206.247&port=888&secret=dd7b5171cce9915c502a32d527034cb223
 
-https://t.me/proxy?server=188.166.112.95&port=80&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=naghd.dnsup.net&port=8010&secret=dd01c79af165d29a263821f6539c66bd5f
+
+https://t.me/proxy?server=blr.ir-pro-tel.us&port=9562&secret=c99b764b1f9bb7ce42d7a268549d2297
+
+https://t.me/proxy?server=185.213.165.149&port=80&secret=dd478b3f620907c5f6870cf067bd657275
+
+https://t.me/proxy?server=ghamlisoz.ddns.net&port=8081&secret=75e567baf228d17835b58eb8ae1a51c7
+
+https://t.me/proxy?server=masterproxy.64-b.it&port=443&secret=dd223fd238f5c9d5df6502ac5f1e7c7c03
+
+https://t.me/proxy?server=online.n4t.co&port=90&secret=a1d0ae1126152dd3ea25c15dd39f011c
+
+https://t.me/proxy?server=3-tele-mt-proxy.n4t.co&port=10163&secret=04a3aa99e05e3c100b0179aba0a60724
+
+https://t.me/proxy?server=1-tel-proxyes.n4t.co&port=10164&secret=0c3ac7d4cdcf1e488cb2ff282dfb7de5
+
+https://t.me/proxy?server=fun.b-p.xyz&port=443&secret=dd8e831a18aeed47deaee7c9e2c2d04f37
+
+https://t.me/proxy?server=213.232.124.34&port=443&secret=ddeab2af64e269eb05c03932702ca02f7b
+
+https://t.me/proxy?server=185.213.165.128&port=443&secret=dd33695c24b63a9e4b0e1f41fa7f049d8d
+
+https://t.me/proxy?server=185.126.201.199&port=50&secret=dd0c89b53822e547d3d0cf03404b03a5a8
+
+https://t.me/proxy?server=drproxy-ir.001www.com&port=443&secret=dde326a3387731c9308a6526226206a1
+
+https://t.me/proxy?server=hi-proxy.001www.com&port=443&secret=dde326a3388631c9308a6526226206a2
+
+https://t.me/proxy?server=mohandes-proxy.001www.com&port=443&secret=cce326a3387731c9307a6526228206a5
+
+https://t.me/proxy?server=azita-proxy.001www.com&port=443&secret=cce326a3388831c9318a6526226206a3
+
+https://t.me/proxy?server=185.213.165.127&port=1080&secret=ddb6282db1e929edd07d93eb9d121baaf4
+
+https://t.me/proxy?server=185.126.201.54&port=1050&secret=ddb6282db1e929edd07d93eb9d121baaf4
+
+https://t.me/proxy?server=alb007.giize.com&port=443&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=flower.mtproxies.tk&port=80&secret=ddbcdcd001fb976514be710c98a738021b
+
+https://t.me/proxy?server=morgh.hicam.net&port=1020&secret=d41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=saraproxy.dnsup.net&port=1014&secret=1550d9e66714571250386edeed1042ab
+
+https://t.me/proxy?server=the-end.dnsup.net&port=8060&secret=4b62db2760cba0cb67390a98bf36ea21
+
+https://t.me/proxy?server=citytop.dnsup.net&port=8080&secret=8b3d038e5ac8b7e1d4475ab4b292f851
+
+https://t.me/proxy?server=happy2019.hicam.net&port=8060&secret=4b62db2760cba0cb67390a98bf36ea21
+
+https://t.me/proxy?server=188.127.237.112&port=443&secret=9c8b6055bfa54133c980bf949495d258
+
+https://t.me/proxy?server=tg.mtproxy.website&port=8443&secret=58cdaf9eaeb2e6f4f1d2a2a1fb30c600
+
+https://t.me/proxy?server=95.216.178.201&port=50&secret=ddedea4c5d11849ab8bbb1538623166503
 
 https://t.me/proxy?server=Ronaldo.zapto.org&port=443&secret=dddd092141f6e48c83846ce86f71861c97
 
 https://t.me/proxy?server=serfan.ddns.net&port=2002&secret=dddd092141f6e48c83846ce86f71861c97
 
 https://t.me/proxy?server=95.216.184.196&port=443&secret=dddd092141f6e48c83846ce86f71861c97
-
-https://t.me/proxy?server=hameja-khashogchiii.ml&port=80&secret=d41d8cd98f00b204d9800998ecf8427d
-
-https://t.me/proxy?server=one.proxytelegram.com&port=8443&secret=dd58cdaf9eaeb2e6f4f1d2a2a1fb30c600
 
 https://t.me/proxy?server=desktop.n4t.co&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
@@ -50,21 +100,7 @@ https://t.me/proxy?server=tanos.64-b.it&port=1080&secret=dd000000000000000000000
 
 https://t.me/proxy?server=vpn4speed.gleeze.com&port=443&secret=ddcce326a3387731c8307a6526228206a9
 
-https://t.me/proxy?server=mtportoiran-cl.mywire.org&port=443&secret=ddcce326a3387731c9307a6526228206a5
-
-https://t.me/proxy?server=iran-online.dnsup.net&port=2020&secret=d41d8cd98f00b204e9800998ecf8427b
-
-https://t.me/proxy?server=new-prox.n4t.co&port=80&secret=eab2af64e269eb05c03932702ca02f7b
-
-https://t.me/proxy?server=HTC-MTP.ddns.net&port=45&secret=ddbd2da37fcb4fe1e095e29e55a75fc293
-
 https://t.me/proxy?server=213.232.124.95&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
-
-https://t.me/proxy?server=68.183.105.114&port=10&secret=3df3dbc8e35dea6e51816bf8d17d43e4
-
-https://t.me/proxy?server=209.250.242.107&port=8585&secret=dddddddddddd00b204e9800998ecf8438e
-
-https://t.me/proxy?server=mahnaz-drproxy.tcp4.me&port=443&secret=dde326a3387731c9308a6526226206a1
 
 https://t.me/proxy?server=tee.kozow.com&port=443&secret=cce326a3387761c8677a6526228206c8
 
@@ -82,8 +118,6 @@ https://t.me/proxy?server=proxy-free-v1.tk&port=443&secret=cce326a3387761c8307a6
 
 https://t.me/proxy?server=Myfact.dynu.net&port=1088&secret=dd00000000000000000000000000000000
 
-https://t.me/proxy?server=speed-4G.gleeze.com&port=443&secret=cce326a3387731c8307a6526228206a9
-
 https://t.me/proxy?server=jazabiyat.64-b.it&port=80&secret=dd00000000000000000000000000000000
 
 https://t.me/proxy?server=alb008.giize.com&port=443&secret=00000000000000000000000000000000
@@ -94,29 +128,19 @@ https://t.me/proxy?server=185.255.91.121&port=666&secret=ddc5fee0ed823f434a7f856
 
 https://t.me/proxy?server=213.232.124.89&port=443&secret=dd81ad04c291e4c24b106f3ab84204fb51
 
-https://t.me/proxy?server=eshgham.myddns.rocks&port=80&secret=dd8a6324b3adb5302e525547e935c6b184
-
 https://t.me/proxy?server=imtp.mtproto.world&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=imtp.mtproto.world&port=8443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=samproxy.dnsup.net&port=443&secret=cce326a3387731c8307a6526228206a6
 
-https://t.me/proxy?server=black.hicam.net&port=1080&secret=ddc85cb0be85ea75ad95dabc1234beaf8f
-
-https://t.me/proxy?server=Betoche.16-b.it&port=80&secret=ddc7aff2bcb6e32ba9743da81e2839c7d9
-
 https://t.me/proxy?server=Ghasem.x443.pw&port=80&secret=ddecfce584297417b2737c5794b6742b00
 
 https://t.me/proxy?server=lady4.16-b.it&port=80&secret=94c82365af0dcaae144b6be415e11227
 
-https://t.me/proxy?server=95.179.181.204&port=80&secret=dde2098382f13a679574b70f1086f467
-
 https://t.me/proxy?server=v4.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=samproxy2.001www.com&port=443&secret=cce326a3387731c8307a6526228206a6
-
-https://t.me/proxy?server=style14.mypi.co&port=88&secret=dda18b19649dcf6b301f5d14ee35431574
 
 https://t.me/proxy?server=185.126.201.199&port=88&secret=dd0c89b53822e547d3d0cf03404b03a5a8
 
@@ -124,53 +148,25 @@ https://t.me/proxy?server=3G-4G.kozow.com&port=443&secret=cce326a3387731c8307a65
 
 https://t.me/proxy?server=imtp.mtproto.world&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
-https://t.me/proxy?server=mtproto.igr.dog&port=443&secret=d1a5ca71ec703ed816af0ea4da099625
-
 https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=goodproxy.x443.pw&port=1004&secret=b3912c29dce7ea657eb26d7787c26e19
-
-https://t.me/proxy?server=khasproxyhighspeed.ml&port=20356&secret=d41d8cd98f00b204d9800998ecf8427e
-
-https://t.me/proxy?server=alb007.giize.com&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=alb007.giize.com&port=1088&secret=dd00000000000000000000000000000000
 
 https://t.me/proxy?server=cnofilter.giize.com&port=443&secret=cce326a3387731c9307a6526228206a5
 
 https://t.me/proxy?server=185.236.202.160&port=80&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
-https://t.me/proxy?server=185.213.165.159&port=80&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
 https://t.me/proxy?server=antifilterserver.giize.com&port=443&secret=cce326a3387731c8307a6526228206a9
-
-https://t.me/proxy?server=139-G5.n4t.co&port=80&secret=dd5671ab4ee4a42af003cc43358a305fa7
 
 https://t.me/proxy?server=winston.n4t.co&port=80&secret=ddc2021faf5958131186ebc94e14c63741
 
-https://t.me/proxy?server=free.mtno.tk&port=80&secret=ddce7f94c44c2807895a65083f45d5d422
-
-https://t.me/proxy?server=iTelegram.webredirect.org&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
-
 https://t.me/proxy?server=185.126.201.217&port=80&secret=dd00000000000000000000000000000000
-
-https://t.me/proxy?server=shoponline.sytes.net&port=7124&secret=ddb5e80217f3180c4ecfc302dd58eca5a2
 
 https://t.me/proxy?server=telproxy2023.dnsking.ch&port=80&secret=dd7748de81bb489ebded413f1be8d0b634
 
 https://t.me/proxy?server=telproxy2020.myddns.rocks&port=80&secret=dde2f69361d75e91dc65234ef02e6a3e4d
 
-https://t.me/proxy?server=telegram.mywire.org&port=2080&secret=dd00000000000000000000000000000000
-
 https://t.me/proxy?server=185.126.201.158&port=80&secret=ddbf3a583cbb24fb21c291d9f4277f1386
 
-https://t.me/proxy?server=fr.cdnjs.info&port=443&secret=dd538699c63aa45ac4df8338685e9cc1b6
-
-https://t.me/proxy?server=profile.soundcast.me&port=1077&secret=d41d8cd98f00b204e9800998ecf8428c
-
 https://t.me/proxy?server=neginperfume.myddns.rocks&port=80&secret=ddb97aba09a1e7b0ff040586c231363ad2
-
-https://t.me/proxy?server=have-a-nice-life.dnsking.ch&port=1020&secret=d41d8cd98f00b204e9800998ecf8427e
 
 https://t.me/proxy?server=phantom.pm-server.in&port=4030&secret=dd580002f8fd47738bd7a991f5944487be
 
@@ -178,17 +174,9 @@ https://t.me/proxy?server=no-filtering.ooguy.com&port=443&secret=cce326a3387731c
 
 https://t.me/proxy?server=aryan-px1.n4t.co&port=25&secret=dde1b4ccf88fd1092bfa99014199db0e8d
 
-https://t.me/proxy?server=power-px1.n4t.co&port=80&secret=dd28d6b4dc74c2cc442d49732303ed1317
-
-https://t.me/proxy?server=1-tele-mt-proxy.n4t.co&port=10161&secret=bf7c4639a064e1d61f412692d748557a
-
-https://t.me/proxy?server=fati-px1.n4t.co&port=20&secret=dd478d7c6713283ed8525232db54f08cdb
-
 https://t.me/proxy?server=matrix.n4t.co&port=1080&secret=dd56ce5e14d764eca23df606e444796634
 
 https://t.me/proxy?server=phantom.n4t.co&port=80&secret=dd69696969696969696969696969696969
-
-https://t.me/proxy?server=very-fast.sytes.net&port=442&secret=dd7ae68ab98cdac7322a5af808a9c03b2c
 
 https://t.me/proxy?server=proxyserver.ddns.net&port=996&secret=dddd85fe2e6ffcb2e492207e55baf4fb31
 
@@ -196,27 +184,17 @@ https://t.me/proxy?server=1122.16-b.it&port=80&secret=5671ab4ee4a42af003cc43358a
 
 https://t.me/proxy?server=nasimproxy-dr.hicam.net&port=5570&secret=d41d8cd98f00b204e9800998ecf8427d
 
-https://t.me/proxy?server=sogand2.dnsdyn.net&port=80&secret=dd00000000000000000000000000000000
-
 https://t.me/proxy?server=vpn4speed.gleeze.com&port=443&secret=cce326a3387731c8307a6526228206a9
 
 https://t.me/proxy?server=88.99.133.152&port=80&secret=a3e6262a98073bb47ebf115208bcbd54
-
-https://t.me/proxy?server=tele-mt-proxy.tcp4.me&port=1010&secret=0f5b3a24f52068bfa97bcbb8392ec7e6
 
 https://t.me/proxy?server=saharghoreyshi-proxy.001www.com&port=443&secret=cce326a3388831c9318a6526226206a3
 
 https://t.me/proxy?server=POWER-MTP.ddns.net&port=60&secret=dd78b54b6a97fde719bc82c7b542d4a817
 
-https://t.me/proxy?server=cheetah.n4t.co&port=80&secret=ddd1dd2db97c651c8c3484d7eee1658391
-
 https://t.me/proxy?server=chbearproxies4.n4t.co&port=80&secret=dd1f3e5aa445f5ea2ffcd2e9740be04c9e
 
 https://t.me/proxy?server=142.93.224.24&port=80&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
-
-https://t.me/proxy?server=ptl-Telegram.camdvr.org&port=443&secret=dee326a3387731c9308a6526226206a9
-
-https://t.me/proxy?server=chbearproxies3.n4t.co&port=80&secret=dd5a8a7faa5753c2080b61e4248407bac4
 
 https://t.me/proxy?server=chbearproxies2.n4t.co&port=80&secret=dd34e04d7516c510031200ffb19ce36042
 
@@ -226,13 +204,9 @@ https://t.me/proxy?server=saeedsh.myddns.rocks&port=80&secret=ddad346523397b6469
 
 https://t.me/proxy?server=Jackal.mywire.org&port=1088&secret=00000000000000000000000000000000
 
-https://t.me/proxy?server=Supra.dynu.com&port=1088&secret=00000000000000000000000000000000
-
 https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=00000000000000000000000000000000
 
 https://t.me/proxy?server=sogand1.dnsup.net&port=80&secret=dd00000000000000000000000000000000
-
-https://t.me/proxy?server=arzanjeans.takhfifevizheh.tk&port=80&secret=dddddddd7b18bd65a516161f3ce8a20a37
 
 https://t.me/proxy?server=Turbo.pm-server.in&port=4030&secret=ddd36ccd814fef678f0bba19f33a0ba874
 
@@ -242,10 +216,6 @@ https://t.me/proxy?server=wow----------proxy.forumz.info&port=1010&secret=d41d8c
 
 https://t.me/proxy?server=vpntel.giize.com&port=443&secret=dee326a3387731c9308a6526226206a9
 
-https://t.me/proxy?server=sam-speed.freeddns.org&port=443&secret=cce326a3387731c8307a6526228206a6
-
-https://t.me/proxy?server=c-proxyiran.dynu.net&port=443&secret=cce326a3387731c9307a6526228206a5
-
 https://t.me/proxy?server=proxywifi.wifizone.org&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
 
 https://t.me/proxy?server=mobogeram.n4t.co&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
@@ -254,27 +224,15 @@ https://t.me/proxy?server=gateways.ddns.net&port=80&secret=dd59573b0150c0e5d5ea5
 
 https://t.me/proxy?server=server3ab.mtgo.tk&port=3030&secret=00000000000000000000000000000000
 
-https://t.me/proxy?server=storyiran.mooo.com&port=6969&secret=74c2b1f817af0ff742e497f66d380d68
-
 https://t.me/proxy?server=Perfect.ooguy.com&port=1088&secret=00000000000000000000000000000000
 
-https://t.me/proxy?server=BP5.64-b.it&port=666&secret=ddc5fee0ed823f434a7f85656340339829
-
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=germanproxy.16-b.it&port=80&secret=dd59573b0150c0e5d5ea5d8f093b7c3244
-
-https://t.me/proxy?server=proxy2019.n4t.co&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
 https://t.me/proxy?server=iran.mtproxies.tk&port=80&secret=dd86a79e67d1e91c0ac03128ed3c2de709
 
 https://t.me/proxy?server=best.mtproxies.tk&port=80&secret=dd4a5abb03b69d7c99ead2adae273a4522
 
 https://t.me/proxy?server=NET.n4T.co&port=80&secret=dd0a5e3a07598c5ec9264403bd71e5df5a
-
-https://t.me/proxy?server=Proxy.giize.com&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
-
-https://t.me/proxy?server=antifilter4.n4t.co&port=80&secret=dd6e8d1a25d61496d135186bbfb411c05c
 
 https://t.me/proxy?server=antifilter1.n4t.co&port=80&secret=dd44373880b53b1112b32e8cad472e2686
 
@@ -284,19 +242,7 @@ https://t.me/proxy?server=saket.tcp4.me&port=80&secret=ddc7aff2bcb6e32ba9743da81
 
 https://t.me/proxy?server=SAMSUNG-Galaxy.ddns.net&port=50&secret=ddbc2da37fcb4fe1e095e29e55a75fc291
 
-https://t.me/proxy?server=naghd.dnsdyn.net&port=1070&secret=dd398399439248f6d7a3b2fedfbbdc0d0f
-
 https://t.me/proxy?server=142.93.238.80&port=80&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
-
-https://t.me/proxy?server=nofiltering.hicam.net&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
-
-https://t.me/proxy?server=minoo.ddns.net&port=1080&secret=ddc85cb0be85ea75ad95dabc1234beaf8f
-
-https://t.me/proxy?server=MTProtoJs.64-b.it&port=8080&secret=dd4a444444c444a4444a44a44b4444444d
-
-https://t.me/proxy?server=sxfuncheetah.n4t.co&port=80&secret=dd26cdf4b551a395589a501b809eed44f9
-
-https://t.me/proxy?server=sighehalal.myiphost.com&port=1520&secret=d41d8cd98f00b204e9800998ecf8428d
 
 https://t.me/proxy?server=213.232.124.58&port=3030&secret=00000000000000000000000000000000
 
@@ -322,21 +268,11 @@ https://t.me/proxy?server=superspeed.freeddns.uk&port=80&secret=dd00000000000000
 
 https://t.me/proxy?server=chetor-ir.n4t.co&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
-https://t.me/proxy?server=serversazan.ddns.net&port=999&secret=dddd85fe2e6ffcb2e492207e55baf4fb31
-
-https://t.me/proxy?server=happyenglish.tk&port=80&secret=ddcbda1237fcb4fee095e29e55a75fc1
-
 https://t.me/proxy?server=perfectporo-cheetah.n4t.co&port=80&secret=ddbe670767fd30146d2312f3c3342dbe13
-
-https://t.me/proxy?server=213.232.124.81&port=80&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
-
-https://t.me/proxy?server=s1.mtprt-proxies.com&port=52&secret=dd165846cf1f3f1b33d92d43d04dd9cbee
 
 https://t.me/proxy?server=sv1.b-p.xyz&port=443&secret=dda5fee0ed823f434a7f85656340339829
 
 https://t.me/proxy?server=1122.16-b.it&port=80&secret=dd5671ab4ee4a42af003cc43358a305fa7
-
-https://t.me/proxy?server=be-one.64-b.it&port=443&secret=ddb12ed2c4cfe82bfc914fd71806ff9ca3
 
 https://t.me/proxy?server=bu.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
@@ -352,10 +288,6 @@ https://t.me/proxy?server=phoenix.freeddns.uk&port=80&secret=dd00000000000000000
 
 https://t.me/proxy?server=divar.viewdns.net&port=80&secret=ddb40bcc741a4ae965c3cc200fed2637ca
 
-https://t.me/proxy?server=hadi24243.sytes.net&port=80&secret=46a5a9549c0f8fe901eb22168893b3aa
-
-https://t.me/proxy?server=zedfilter13.n4t.co&port=80&secret=ddae0ab9a59ac2797283698763db72cb32
-
 https://t.me/proxy?server=185.213.165.60&port=80&secret=dd2d47e71e01a3d72cd8ab61cae9eda642
 
 https://t.me/proxy?server=antifilter7.n4t.co&port=80&secret=ddcd8199a658af78c7093804db6630a43f
@@ -366,14 +298,6 @@ https://t.me/proxy?server=Bestproxy.dynu.net&port=1088&secret=000000000000000000
 
 https://t.me/proxy?server=Myporoxy.dynu.net&port=1088&secret=00000000000000000000000000000000
 
-https://t.me/proxy?server=hivpn-v.giize.com&port=443&secret=cce326a3387761c8307a6526228206a7
-
-https://t.me/proxy?server=proxyfree-tel.giize.com&port=443&secret=dee326a3387731c9308a6526226206a9
-
-https://t.me/proxy?server=majale.myddns.rocks&port=456&secret=dda0df89348f4aa330d85a6d617519dd63
-
-https://t.me/proxy?server=freedom.mtproxies.tk&port=80&secret=0a7c3b2a04d70e8e5650223c605932f5
-
 https://t.me/proxy?server=95.216.177.231&port=50&secret=ddedea4c5d11849ab8bbb1538623166503
 
 https://t.me/proxy?server=mt0.2ch.tf&port=443&secret=ed0f29878317c45aac00232a3287e9d6
@@ -382,13 +306,9 @@ https://t.me/proxy?server=mercovin.zapto.org&port=1080&secret=ddc85cb0be85ea75ad
 
 https://t.me/proxy?server=zedfilter12.n4t.co&port=80&secret=ddbf7bfba6831c18bddf7396b6ad752ea0
 
-https://t.me/proxy?server=iranhost.3utilities.com&port=80&secret=dd39398f72a48e9c57af836a17dd4b94fb
-
 https://t.me/proxy?server=fast.vpndns.net&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
 https://t.me/proxy?server=104.248.192.175&port=80&secret=dd5a9ad6bb39cd83d107d480ea6eebd271
-
-https://t.me/proxy?server=king-ver.giize.com&port=443&secret=cce326a3387761c8307a6526228206a7
 
 https://t.me/proxy?server=diamond.freeddns.uk&port=80&secret=dd00000000000000000000000000000000
 
@@ -396,17 +316,9 @@ https://t.me/proxy?server=12o.Digitalresistance.webredirect.org&port=1080&secret
 
 https://t.me/proxy?server=Project1.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
 
-https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
-
-https://t.me/proxy?server=MTProto.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
-
-https://t.me/proxy?server=Extra-Speed.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
-
 https://t.me/proxy?server=Pro.Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
 
 https://t.me/proxy?server=GhaSem.x443.pw&port=80&secret=ddecfce584297417b2737c5794b6742b00
-
-https://t.me/proxy?server=cl-proxyiran.001www.com&port=443&secret=cce326a3387731c9307a6526228206a5
 
 https://t.me/proxy?server=net.n4t.co&port=80&secret=dd0a5e3a07598c5ec9264403bd71e5df5a
 
@@ -420,13 +332,9 @@ https://t.me/proxy?server=vooskado.ddns.net&port=1080&secret=ddc85cb0be85ea75ad9
 
 https://t.me/proxy?server=KinGProxies.CasaCam.net&port=80&secret=dddd52278afecbe83fa58b0432b5c112a0
 
-https://t.me/proxy?server=antifilter6.n4t.co&port=80&secret=ddf85ccec53f60a22cafc9217c625c27a2
-
 https://t.me/proxy?server=89.144.188.7&port=8585&secret=dd70941ae5fe315a8ba797e3fa8911d730
 
 https://t.me/proxy?server=antifilter2.n4t.co&port=80&secret=ddef3e822f896bd94bcf24071eaaeeb4b8
-
-https://t.me/proxy?server=tx.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=antifilter3.n4t.co&port=80&secret=dd64813c192fb5dd1e1bc2fa1701b95e26
 
@@ -444,14 +352,6 @@ https://t.me/proxy?server=x.bearproxies.ml&port=443&secret=dd07d9a5ed5517212b66d
 
 https://t.me/proxy?server=xx.bearproxies.ml&port=443&secret=dd333254f8ffbd27d3bced3d60c967638e
 
-https://t.me/proxy?server=borhan.mypi.co&port=80&secret=dda18b19649dcf6b301f5d14ee35431574
-
-https://t.me/proxy?server=s203.mtproto.world&port=8880&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
-https://t.me/proxy?server=PSG.zapto.org&port=443&secret=dddd092141f6e48c83846ce86f71861c97
-
 https://t.me/proxy?server=russia.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
-
-https://t.me/proxy?server=wi.mtproto.world&port=8080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 
 https://t.me/proxy?server=ghasem.x443.pw&port=80&secret=ddecfce584297417b2737c5794b6742b00
