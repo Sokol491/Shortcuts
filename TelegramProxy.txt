@@ -1,8 +1,62 @@
+https://t.me/proxy?server=Salvador.giize.com&port=8080&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=s6.mtprt-proxies.com&port=443&secret=dd37e7d4dc339f6a1896293bedf8449af5
+
+https://t.me/proxy?server=s1.mtprt-proxies.com&port=52&secret=dd165846cf1f3f1b33d92d43d04dd9cbee
+
+https://t.me/proxy?server=irancellproxy.x443.pw&port=10042&secret=f8ef24e108f85db032839b060da0e94e
+
+https://t.me/proxy?server=sa122.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=proxyserver.ddns.net&port=996&secret=dddd85fe2e6ffcb2e492207e55baf4fb31
+
+https://t.me/proxy?server=n012.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+
+https://t.me/proxy?server=139-G5.n4t.co&port=80&secret=dd5671ab4ee4a42af003cc43358a305fa7
+
+https://t.me/proxy?server=superspeed.freeddns.uk&port=80&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=phoenix.freeddns.uk&port=80&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=ghasem.x443.pw&port=80&secret=ddecfce584297417b2737c5794b6742b00
+
+https://t.me/proxy?server=213.232.125.180&port=10301&secret=b48c7d295291274e7960a8f961900577
+
+https://t.me/proxy?server=myporoxy4.hopto.org&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=Supra.dynu.com&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
+
+https://t.me/proxy?server=Jackal.mywire.org&port=1088&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=185.176.221.174&port=1080&secret=ddf65229ba732a72ea8ff862920b9de524
+
+https://t.me/proxy?server=185.176.221.110&port=1080&secret=ddf65229ba732a72ea8ff862920b9de524
+
+https://t.me/proxy?server=185.176.222.66&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=213.232.125.41&port=17821&secret=ddf7c8d0b3a4904567cdaf12c8640c79b7
+
+https://t.me/proxy?server=91.219.237.91&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+
+https://t.me/proxy?server=Traffic.dynu.com&port=8080&secret=00000000000000000000000000000000
+
+https://t.me/proxy?server=drpro.ddns.net&port=1085&secret=dddddddddddddddddddddbdddddddddddd
+
+https://t.me/proxy?server=c-proxyiran.dynu.net&port=443&secret=cce326a3387731c9307a6526228206a5
+
+https://t.me/proxy?server=teb.gleeze.com&port=443&secret=cce326a3387761c8677a6526228206c8
+
+https://t.me/proxy?server=mtproxyy.n4t.co&port=443&secret=dd223fd238f5c9d5df6502ac5f1e7c7c03
+
+https://t.me/proxy?server=Myporoxy.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
 https://t.me/proxy?server=proxypc.vpndns.net&port=80&secret=ddb2960bcfcf2939cfe95834603257dfdb
 
 https://t.me/proxy?server=darabcitych.n4t.co&port=80&secret=dd87ebaa2ccb229a7989132f556c701e99
-
-https://t.me/proxy?server=ayamidanim.dnsup.net&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
 
 https://t.me/proxy?server=yazdtakhfif-proxy.dnsup.net&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
 
@@ -23,8 +77,6 @@ https://t.me/proxy?server=193.23.181.142&port=50&secret=dd8b2394ad2ecef7e607d5f5
 https://t.me/proxy?server=91.219.238.97&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=91.219.236.94&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
-
-https://t.me/proxy?server=199.175.55.100&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
 https://t.me/proxy?server=176.119.28.25&port=50&secret=dd8b2394ad2ecef7e607d5f52b31a45768
 
@@ -107,8 +159,6 @@ https://t.me/proxy?server=BMW-MTP.ddns.net&port=70&secret=ddc254a2b7f3080ac6ff94
 https://t.me/proxy?server=ck2.flatvm.us&port=443&secret=dd62d0f15bc8705ed9a42663cb564cd673
 
 https://t.me/proxy?server=Myfact.dynu.net&port=1088&secret=dd00000000000000000000000000000000
-
-https://t.me/proxy?server=185.255.91.121&port=666&secret=ddc5fee0ed823f434a7f85656340339829
 
 https://t.me/proxy?server=antifilterserver.giize.com&port=443&secret=cce326a3387731c8307a6526228206a9
 
