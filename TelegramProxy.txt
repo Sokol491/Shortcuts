@@ -1,3 +1,13 @@
+https://t.me/proxy?server=mokhtarname.freeddns.uk&port=1522&secret=ddd41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=have-a-nice-life.dnsking.ch&port=1020&secret=ddd41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=mtporotoproxy.n4t.co&port=80&secret=dd524f06812f567c9a582ab92aea2c7249
+
+https://t.me/proxy?server=mtpr123.spry.fail&port=8443&secret=dd726564736869656c6476706e2e636f6d
+
+https://t.me/proxy?server=dr.nimble.fyi&port=8443&secret=dd726564736869656c6476706e2e636f6d
+
 https://t.me/proxy?server=matrix.n4t.co&port=1080&secret=dd56ce5e14d764eca23df606e444796634
 
 https://t.me/proxy?server=MTProtoJs.32-b.It&port=443&secret=ddf207f3a3ffd77b5b2ab874709d461e32
