@@ -1,12 +1,12 @@
-https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
+https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=f48f621b110f302e468756840c29f916
 
-https://t.me/proxy?server=free-proxy.hicam.net&port=80&secret=dd36f52b29be243ff25cd0271a921e8139
+https://t.me/proxy?server=free-proxy.hicam.net&port=80&secret=36f52b29be243ff25cd0271a921e8139
 
 https://t.me/proxy?server=honor.mypi.co&port=80&secret=ddaa711023bb720925cc711030dd730212
 
 https://t.me/proxy?server=2.drproxy.tk&port=443&secret=ddd6c5ac470b7e8f42942db9a2d10162ad
 
-https://t.me/proxy?server=fast-proxy.gq&port=443&secret=ddee2f75a58f796ae84d52722d5efa67c2
+https://t.me/proxy?server=fast-proxy.gq&port=443&secret=ee2f75a58f796ae84d52722d5efa67c2
 
 https://t.me/proxy?server=home-ir.mtproxies.tk&port=80&secret=ddef39240a46f1eda0dac5f180530b6e32
 
