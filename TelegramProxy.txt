@@ -1,6 +1,6 @@
-https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=f48f621b110f302e468756840c29f916
+https://t.me/proxy?server=free.fckrknbot.com&port=500&secret=ddf48f621b110f302e468756840c29f916
 
-https://t.me/proxy?server=free-proxy.hicam.net&port=80&secret=36f52b29be243ff25cd0271a921e8139
+https://t.me/proxy?server=free-proxy.hicam.net&port=80&secret=dd36f52b29be243ff25cd0271a921e8139
 
 https://t.me/proxy?server=honor.mypi.co&port=80&secret=ddaa711023bb720925cc711030dd730212
 
