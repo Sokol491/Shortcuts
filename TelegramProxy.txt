@@ -1,3 +1,15 @@
+https://t.me/proxy?server=best.64-b.it&port=1111&secret=ddd41d8cd98f00b204e9800998ecf8427e
+
+https://t.me/proxy?server=mytelegeam.001www.com&port=88&secret=dd9245a393d02b795aeea4450ce5c56bc7
+
+https://t.me/proxy?server=NewProxy.dynu.net&port=9969&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=foxfast.dnsup.net&port=11100&secret=dda28aa24abd10f592c74745686a83cd79
+
+https://t.me/proxy?server=proxyantifilter.n4t.co&port=80&secret=ddaf500442270ae2092712b70510411e16
+
+https://t.me/proxy?server=185.126.201.202&port=80&secret=dd115fa3aabca7aee792e9a8de8ce4b1fa
+
 https://t.me/proxy?server=185.244.131.202&port=8888&secret=dd0123456789abcdef0123ffeebbabcdef
 
 https://t.me/proxy?server=c-proxyiran.dynu.net&port=443&secret=ddcce326a3387731c9307a6526228206a5
