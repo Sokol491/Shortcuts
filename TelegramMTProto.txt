@@ -1,4 +1,4 @@
 {
-"key1" : "1.5",
-"key2" : "https://www.icloud.com/shortcuts/080fb3bf17d04f499094d93af68799d6",
+"key1" : "2.1",
+"key2" : "https://www.icloud.com/shortcuts/577b821784c443c99d6a370a414e7c5e",
 }
