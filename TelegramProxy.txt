@@ -1,62 +1,40 @@
-https://t.me/proxy?server=Mydanestani.giize.com&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=Star-Proxy.ddns.net&port=1082&secret=ddf207f3a3ffd77b5b2ab874709d461e62
 
-https://t.me/proxy?server=FastProxy.mywire.org&port=9989&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=Bestproxy.dynu.net&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=newproxy2020.ddnslive.com&port=443&secret=e10935412df1c48c9a96a3310053ee5f
-
-https://t.me/proxy?server=newproxy2021.n4t.co&port=443&secret=e10935412df1c48c9a96a3310053ee5f
-
-https://t.me/proxy?server=newproxy2024.dnsup.net&port=1080&secret=d4b7fdd57dae29633480f276aecac214
-
-https://t.me/proxy?server=newproxy2025.dnsup.net&port=1080&secret=d4b7fdd57dae29633480f276aecac214
-
-https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=ru.tgproxy.today&port=1194&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
-
-https://t.me/proxy?server=ru.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
-
-https://t.me/proxy?server=NewProxy.dynu.net&port=9969&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=server1ab.mtgo.tk&port=80&secret=31d4f99f138aff05f45238a8896c09cf
-
-https://t.me/proxy?server=server2ab.mtgo.tk&port=80&secret=31d4f99f138aff05f45238a8896c09cf
-
-https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=f207f3a3ffd77b5b2ab874709d461e61
-
-https://t.me/proxy?server=proxygo22.flatvm.us&port=1001&secret=ddecc23f98916dab3618dd21d0691f2fc9
+https://t.me/proxy?server=Proxygo98.flatvm.us&port=1005&secret=dd2b70c9bfdff253a945c0921f82caf17a
 
 https://t.me/proxy?server=manva2o.flatvm.us&port=1004&secret=ddcf80d8084ac69d12d84992f2a96c84b2
 
-https://t.me/proxy?server=mananafass1.n4t.co&port=88&secret=dd9245a393d02b795aeea4450ce5c56bc7
+https://t.me/proxy?server=s1.theproxy.ml&port=1010&secret=dd992716ed108224d03da70ce5bdcd4d3e
 
-https://t.me/proxy?server=oldproxy.mypi.co&port=10&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=51.77.34.171&port=80&secret=ddb0cbcef5a486d9636472ac27f8e11a9d
+
+https://t.me/proxy?server=FastProxy.mywire.org&port=9989&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=Bestproxy.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=newproxy2021.n4t.co&port=443&secret=dde10935412df1c48c9a96a3310053ee5f
+
+https://t.me/proxy?server=newproxy2024.dnsup.net&port=1080&secret=ddd4b7fdd57dae29633480f276aecac214
+
+https://t.me/proxy?server=newproxy2025.dnsup.net&port=1080&secret=ddd4b7fdd57dae29633480f276aecac214
+
+https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+
+https://t.me/proxy?server=ru.tgproxy.today&port=1194&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+
+https://t.me/proxy?server=NewProxy.dynu.net&port=9969&secret=dd00000000000000000000000000000000
 
 https://t.me/proxy?server=one.proxytelegram.com&port=8443&secret=dd58cdaf9eaeb2e6f4f1d2a2a1fb30c600
 
-https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
+https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
 
 https://t.me/proxy?server=dg.igr.dog&port=80&secret=dd9c8b6055bfa54133c980bf949495d258
 
-https://t.me/proxy?server=1.mtproxies.cf&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
+https://t.me/proxy?server=Soldier.dynu.com&port=8080&secret=dd00000000000000000000000000000000
 
-https://t.me/proxy?server=advance.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-
-https://t.me/proxy?server=213.232.125.204&port=80&secret=ddb0cbcef5a486d9636472ac27f8e11a9d
-
-https://t.me/proxy?server=213.232.125.203&port=80&secret=ddb0cbcef5a486d9636472ac27f8e11a9d
-
-https://t.me/proxy?server=Soldier.dynu.com&port=8080&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=Traffic.dynu.com&port=8080&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=Mydanestanii.kozow.com&port=1088&secret=00000000000000000000000000000000
-
-https://t.me/proxy?server=Rayka.dynu.net&port=8080&secret=00000000000000000000000000000000
+https://t.me/proxy?server=Rayka.dynu.net&port=8080&secret=dd00000000000000000000000000000000
 
 https://t.me/proxy?server=92.53.66.75&port=443&secret=dd4eebb642057030cbc8d83ee70610beef
 
@@ -80,4 +58,4 @@ https://t.me/proxy?server=91.219.237.91&port=50&secret=dd8b2394ad2ecef7e607d5f52
 
 https://t.me/proxy?server=iobfer.n4t.co&port=4592&secret=dd00000000000000000000000000000000
 
-https://t.me/proxy?server=185.244.131.202&port=8888&secret=0123456789abcdef0123ffeebbabcdef
+https://t.me/proxy?server=185.244.131.202&port=8888&secret=dd0123456789abcdef0123ffeebbabcdef
