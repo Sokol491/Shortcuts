@@ -1,4 +1,4 @@
-{"result" : [{"key":"Mpb54df5b1abc46ecdb08935d6fc2f4526eba27caf1b6f2f87b3477ef3119bc0fd","name":"Monster Node","site":"https://monsternode.net",},
+{"result" : {"key":"Mpb54df5b1abc46ecdb08935d6fc2f4526eba27caf1b6f2f87b3477ef3119bc0fd","name":"Monster Node","site":"https://monsternode.net",},
 {"key":"Mp2f4d5478540c2ecd03d8c584f59f1e552353af043d981f27f39ac9de6b0f2c78" : {"name":"BTC.Secure","site":"https://blog.btcsecure.io/",},
 {"key":"Mpc8c6834da8ba2b0b24f7e5ab67049509278e709cde925f14184586f74dcc9d0b" : {"name":"Minter Store","site":"https://minter.store",},
 {"key":"Mp8f053f3802d33f5e7092bb01ca99ae77606f4faf759c72560d5ee69b8e191a56" : {"name":"StakeHolder","site":"https://minter.stakeholder.space/",},
@@ -24,4 +24,4 @@
 {"key":"Mp55a7a564c321e3289bac2cfe243e48cd43f2554a2851b02db5e364bfacdaac6fм" : {"name":"Нет данных""site":"Нет данных",},
 {"key":"Mp6f16c1ff21a6fb946aaed0f4c1fcca272b72fd904988f91d3883282b8ae31ba2" : {"name":"Нет данных","site":"Нет данных",},
 {"key":"Mp4ae1ee73e6136c85b0ca933a9a1347758a334885f10b3238398a67ac2eb153b8" : {"name":"Нет данных","site":"Нет данных",},
-{"key":"Mp9e13f2f5468dd782b316444fbd66595e13dba7d7bd3efa1becd50b42045f58c6" : {"name":"Нет данных","site":"Нет данных",}]}
+{"key":"Mp9e13f2f5468dd782b316444fbd66595e13dba7d7bd3efa1becd50b42045f58c6" : {"name":"Нет данных","site":"Нет данных",}}
