@@ -1,4 +1,4 @@
-{{
+{
 "Mpee580b2be5176c054beb65e7c0d5cbea6307d6e3dc1c8ba68e2ec6c9cc7f1ccc" : {
 "name":"Minter One",
 "site":"http://minter.one",
@@ -110,4 +110,4 @@
 "Mp9e13f2f5468dd782b316444fbd66595e13dba7d7bd3efa1becd50b42045f58c6" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}}}
+}}
