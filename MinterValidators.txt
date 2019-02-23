@@ -2,112 +2,113 @@
 "Mpee580b2be5176c054beb65e7c0d5cbea6307d6e3dc1c8ba68e2ec6c9cc7f1ccc" : {
 "name":"Minter One",
 "site":"http://minter.one",
-}},{
+},
 "Mpb54df5b1abc46ecdb08935d6fc2f4526eba27caf1b6f2f87b3477ef3119bc0fd" : {
 "name":"Monster Node",
 "site":"https://monsternode.net",
-}},{
+},
 "Mp2f4d5478540c2ecd03d8c584f59f1e552353af043d981f27f39ac9de6b0f2c78" : {
 "name":"BTC.Secure",
 "site":"https://blog.btcsecure.io/",
-}},{
+},
 "Mpc8c6834da8ba2b0b24f7e5ab67049509278e709cde925f14184586f74dcc9d0b" : {
 "name":"Minter Store",
 "site":"https://minter.store",
-}},{
+},
 "Mp8f053f3802d33f5e7092bb01ca99ae77606f4faf759c72560d5ee69b8e191a56" : {
 "name":"StakeHolder",
 "site":"https://minter.stakeholder.space/",
-}},{
+},
 "Mp1933feab54376acf78b0dfd3492046d802a3e18a8fdad8494b4e14587c89418f" : {
 "name":"MinterCenter",
 "site":"http://minter.center",
-}},{
+},
 "Mp1523aba429a126c2d51c3fc85c9f589970f4b25a7afab9787a3bc8f76306cf4b" : {
 "name":"MINTERNATOR",
 "site":"https://minternator.com/",
-}},{
+},
 "Mp1c7d6572ed570291c9bef1c4b3c7cc5dae2f7e6e447fe4cb3ad56d0026ab67ca" : {
 "name":"Rundax",
 "site":"https://minter.rundax.com",
-}},{
+},
 "Mpa3fc6e42e7237dd8a4bb2d53e497896775d288c4d2ec1b05aa4b999c59a10d96v" : {
 "name":"1%",
 "site":"https://commons.wikimedia.org/wiki",
-}},{
+},
 "Mp4de057441c02bc6d18ddf335a7b65dc8d09b59e14e0811a884a621e7c70e05ae" : {
 "name":"bipMaker",
 "site":"http://www.bipMaker.pro",
-}},{
+},
 "Mp09f3548f7f4fc38ad2d0d8f805ec2cc1e35696012f95b8c6f2749e304a91efa2" : {
 "name":"Validator.Center",
 "site":"https://Minter.Validator.Center",
-}},{
+},
 "Mp65cc2c01fb8cbdae912032258edd9d04d9de972e4dcdd2eb1ad23e67ec617d58" : {
 "name":"Apple",
 "site":"Нет данных",
-}},{
+},
 "Mp66be65efae9173b74ea896d99e4e4649e8fd88a6daedde758a09de80a1dfd291" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp14c93843ca40a62b9e7d02a824e7ffe83b49e3329ae963afdd7e500071ab9bfc" : {
 "name":"Minter Capital",
 "site":"https://mintercap.com",
-}},{
+},
 "Mpeb60e7864833a9fc1537795175bb2c4044518f96e68291cdb3c50a81a68d3a1c" : {
 "name":"PRO-BLOCKCHAIN",
 "site":"Нет данных",
-}},{
+},
 "Mp04a63aebb316449169fabc79cff0d92efd890e42d55e432c2cc1a081436ac84b" : {
 "name":"Mother Minter",
 "site":"https://motherminter.org/",
-}},{
+},
 "Mp06016a4f1059391d851fd675d522997999409fa18a27395f0fd088f3c01db2d2" : {
 "name":"ALFA MINTER",
 "site":"https://aminter.eu/",
-}},{
+},
 "Mpd240d2680bc85772a6d00dce9645b4ba38a8132fed2141670a85c62332531280" : {
 "name":"Minter Validator",
 "site":"https://minter-validator.ru/",
-}},{
+},
 "Mp955e9cd059d7e6d6ab12b3fa79cd99748b93a4de765abd83dda038abde07b9c6" : {
 "name":"Minterious",
 "site":"http://t.me/minterious",
-}},{
+},
 "Mp53097054bb0038aa42fd7cb5bbe1284fc594c86581d01eb328ceb514f716ef30" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mpeadea542b99de3b414806b362910cc518a177f8217b8452a8385a18d1687a80b" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp738da41ba6a7b7d69b7294afa158b89c5a1b410cbf0c2443c85c5fe24ad1dd1c" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp66f2b2cb92ccf87782029d584cca4561c07d3e740c8cc814bed5b0d08f534858" : {
 "name":"Minter Validator",
 "site":"http://minter-validator.ru/",
-}},{
+},
 "Mpc42a1544212a84fb7398b4aea8e49f5319870be9372d072a6b440aa4707938fc" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp55a7a564c321e3289bac2cfe243e48cd43f2554a2851b02db5e364bfacdaac6fм" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp6f16c1ff21a6fb946aaed0f4c1fcca272b72fd904988f91d3883282b8ae31ba2" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp4ae1ee73e6136c85b0ca933a9a1347758a334885f10b3238398a67ac2eb153b8" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}},{
+},
 "Mp9e13f2f5468dd782b316444fbd66595e13dba7d7bd3efa1becd50b42045f58c6" : {
 "name":"Нет данных",
 "site":"Нет данных",
-}}
+},
+}
