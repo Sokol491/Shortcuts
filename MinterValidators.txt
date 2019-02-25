@@ -1,4 +1,10 @@
 {
+
+"Mpee580b2be5176c054beb65e7c0d5cbea6307d6e3dc1c8ba68e2ec6c9cc7f1ccc" : 
+		{
+		"name":"Minter.One",
+		"site":"https://pool.minter.one/",
+		},
 	"Mpb54df5b1abc46ecdb08935d6fc2f4526eba27caf1b6f2f87b3477ef3119bc0fd" : 
 		{
 		"name":"Monster Node",
