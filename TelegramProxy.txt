@@ -1,3 +1,13 @@
+https://t.me/socks?server=185.36.191.39&port=8265&user=userid33zP&pass=xb75pYXL
+https://t.me/proxy?server=krasiviy.themarfa.online&port=443&secret=dd828b44917e30834040992766a7ed2bbf
+https://t.me/proxy?server=Godzila.dynu.com&port=9090&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=Star-MTP.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=Star-Proxy.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=alone.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
+https://t.me/socks?server=king.imtproto.me.uk&port=7724
+https://t.me/proxy?server=great.ptime.ml&port=7724&secret=00000000000000000000000000000000
+https://t.me/proxy?server=Apple-Proxy.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=Supra.dynu.com&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=hossein.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=nordvpn.imtproto.me.uk&port=1080&secret=00000000000000000000000000000000
 https://t.me/proxy?server=nab.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
