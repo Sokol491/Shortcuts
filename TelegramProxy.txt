@@ -1,10 +1,17 @@
-https://t.me/proxy?server=ripe.mtproto.world&port=1080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-https://t.me/proxy?server=done.coin-pot.cc&port=1025&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-https://t.me/proxy?server=Walker.giize.com&port=1088&secret=00000000000000000000000000000000
-https://t.me/proxy?server=bestpro.giize.com&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=Supra.dynu.com&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=iran2.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
+https://t.me/proxy?server=1.gold.mtpir.cf&port=1001&secret=dd08ed06e1d1a8f963fdf07525ff7d27fa
+https://t.me/proxy?server=1.mtdd.tk&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
+https://t.me/proxy?server=1.mtproxies.cf&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
+https://t.me/proxy?server=101.mtproxies.cf&port=1280&secret=dd96126bb173dd4d2e853821507d311ab1
+https://t.me/proxy?server=mt.wedone.world&port=1080&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=1.gold.mtpir.cf&port=1001&secret=08ed06e1d1a8f963fdf07525ff7d27fa
+https://t.me/proxy?server=fast.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=xyz.besttunel.xyz&port=1372&secret=dddd0d4778fa48caad192b1ee8f738aa00
+https://t.me/proxy?server=bomb.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
+https://t.me/proxy?server=KFC.mtproxy.club&port=1109&secret=ddece2827e4f49420059b6cb797849fb84
+https://t.me/proxy?server=kit.n4t.co&port=443&secret=ddddb75ddccaf9c7fdf2bfdfca20ddbeef
+https://t.me/proxy?server=bearproxies.mtdd.tk&port=7979&secret=dd89777d656153020050b200751feeeed4
 https://t.me/proxy?server=kod.mtprx.gq&port=1080&secret=dd91c9723bf730b87e36aa6fdc2d6aa6a7
-https://t.me/proxy?server=MTProtoJs.64-b.it&port=8080&secret=dd4a444444c444a4444a44a44b4444444d
 https://t.me/proxy?server=mtprotoa.whish.ir&port=3251&secret=ddc254a2b7f3080ac6ff9465eef8e646
 https://t.me/proxy?server=SpeedMTproxy.drproxy.pro&port=1107&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=nab1.imtproto.me.uk&port=1398&secret=00000000000000000000000000000000
@@ -17,9 +24,6 @@ https://t.me/proxy?server=pes.imtproto.me.uk&port=7724&secret=000000000000000000
 https://t.me/proxy?server=MTP.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=proxy.resistancedog.digital&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
 https://t.me/proxy?server=yes.imtproto.me.uk&port=7724&secret=00000000000000000000000000000000
-https://t.me/proxy?server=Ok-Proxy.ddns.net&port=1081&secret=ddf207f3a3ffd77b5b2ab874709d461e62
-https://t.me/proxy?server=Pro-Proxy.ddns.net&port=1085&secret=b3f86d0ba96eb824bb2131a7231de133
-https://t.me/proxy?server=Nike-MTP.ddns.net&port=1081&secret=ddf207f3a3ffd77b5b2ab874709d461e62
 https://t.me/proxy?server=irMTprotoProxy.drproxy.pro&port=1108&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=YAS.drproxy.pro&port=1102&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=cheeta2.mtparty.xyz&port=2000&secret=00000000000000000000000000000000
@@ -63,7 +67,6 @@ https://t.me/proxy?server=cdn1.bjyfamilly.eu&port=946&secret=ddd3c9902dd43e8bfd8
 https://t.me/proxy?server=red.besttunel.xyz&port=2019&secret=ddb187f5f67ae03899daf39c0df4ced84d
 https://t.me/proxy?server=iran14.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
 https://t.me/proxy?server=Full_speed2.mtproxy.club&port=1070&secret=ddece2827e4f49420059b6cb797849fb84
-https://t.me/proxy?server=Good-proxy.dynu.net&port=1077&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=51.15.126.180&port=443&secret=dd4eebb642057030cbc8d83ee70610beef
 https://t.me/proxy?server=bestproxy.mtproxy.club&port=1068&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=besansur.mtproxy.club&port=1120&secret=ddece2827e4f49420059b6cb797849fb84
@@ -98,7 +101,6 @@ https://t.me/proxy?server=215-bmf.drproxy.club&port=215&secret=ddda697dcce3133a4
 https://t.me/proxy?server=node-5.t2.drproxy.pro&port=1080&secret=dd201fcd72f719e59adf7ad161ccadc4ac
 https://t.me/proxy?server=just_service.mtproxy.club&port=1096&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=lotusproxy.mtproxy.club&port=1113&secret=ddece2827e4f49420059b6cb797849fb84
-https://t.me/proxy?server=NIC.mtproxy.club&port=1111&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=Iran17.drproxy.pro&port=1075&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=iran15.drproxy.pro&port=1064&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=Iran14.drproxy.pro&port=1077&secret=ddece2827e4f49420059b6cb797849fb84
@@ -191,6 +193,5 @@ https://t.me/proxy?server=Bestmilad2.mtproxy.club&port=1072&secret=ddece2827e4f4
 https://t.me/proxy?server=HighSpeed.mtproxy.club&port=1064&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=iran6.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
 https://t.me/proxy?server=iran.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
-https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
 https://t.me/proxy?server=one.proxytelegram.com&port=8443&secret=dd58cdaf9eaeb2e6f4f1d2a2a1fb30c600
 https://t.me/proxy?server=yota.drproxy.pro&port=1194&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
