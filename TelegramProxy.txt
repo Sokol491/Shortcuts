@@ -1,3 +1,6 @@
+https://t.me/proxy?server=ir.tgproxy.today&port=443&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=ru.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e
 https://t.me/proxy?server=telegram.ignorelist.com&port=465&secret=5fd7b991bdfe009f6f26d423fd35d8ee
 https://t.me/proxy?server=mtproxy.ignorelist.com&port=465&secret=6672a7c073161b806e1723fb6f4a650a
 https://t.me/proxy?server=telegram.ignorelist.com&port=465&secret=dd5fd7b991bdfe009f6f26d423fd35d8ee
