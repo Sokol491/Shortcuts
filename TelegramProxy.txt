@@ -1,3 +1,14 @@
+https://t.me/proxy?server=95.216.196.195&port=7724&secret=00000000000000000000000000000000
+https://t.me/proxy?server=fix.imtproto.link&port=8001&secret=00000000000000000000000000000000
+https://t.me/proxy?server=max.imtproto.link&port=8000&secret=80008000800080008000800080008000
+https://t.me/proxy?server=Ok-Proxy.ddns.net&port=1081&secret=ddf207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=45.32.234.54&port=2082&secret=dd5330ab8d832fd51ac7e5446ebb4236
+https://t.me/proxy?server=keyvan.mtparty.xyz&port=2000&secret=6e6bbf60607d82b7e48a54b2bc5c6923
+https://t.me/proxy?server=Khass27.online&port=50&secret=3d415e4a0069819eeb033a151952f586
+https://t.me/proxy?server=fi.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=Apple-Proxy.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=mssg.themarfa.online&port=443&secret=dd828b44917e30834040992766a7ed2bbf
+https://t.me/proxy?server=101.mtproxies.cf&port=1280&secret=dd96126bb173dd4d2e853821507d311ab1
 https://t.me/proxy?server=KFC.mtproxy.club&port=1109&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=telcal.whish.ir&port=7413&secret=ddece2827e4f4420059b6cb797849fb8
 https://t.me/proxy?server=ir.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
