@@ -1,6 +1,5 @@
-https://t.me/proxy?server=Jackal.mywire.org&port=1088&secret=00000000000000000000000000000000
-https://t.me/proxy?server=powerful.imtproto.me.uk&port=9999&secret=00000000000000000000000000000000
-https://t.me/proxy?server=Furious.dynu.net&port=9949&secret=00000000000000000000000000000000
+https://t.me/proxy?server=KFC.mtproxy.club&port=1109&secret=ddece2827e4f49420059b6cb797849fb84
+https://t.me/proxy?server=telcal.whish.ir&port=7413&secret=ddece2827e4f4420059b6cb797849fb8
 https://t.me/proxy?server=ir.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=ru.tgproxy.today&port=443&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=ru.tgproxy.today&port=1194&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
@@ -35,7 +34,6 @@ https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5
 https://t.me/proxy?server=mssg.mtpr.xyz&port=1194&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=cdn1.bjyfamilly.eu&port=946&secret=ddd3c9902dd43e8bfd8cb65fdbeecd090a
 https://t.me/proxy?server=51.15.126.180&port=443&secret=dd4eebb642057030cbc8d83ee70610beef
-https://t.me/proxy?server=23.254.225.68&port=2018&secret=dd25f63adf195be672c7193713373ec47a
 https://t.me/proxy?server=51.15.126.180&port=1443&secret=dd4eebb642057030cbc8d83ee70610beef
 https://t.me/proxy?server=mssg.mtpr.xyz&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=116.203.3.20&port=1010&secret=ddee448161f1a0cfaa754d3a0a0c3dae9d
