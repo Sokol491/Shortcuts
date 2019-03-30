@@ -1,3 +1,5 @@
+https://t.me/proxy?server=18.dashtweb.dynu.net&port=18&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=beeest.redirectme.net&port=4839&secret=dd556308e21dcaeeebec211882585fa04c
 https://t.me/proxy?server=alpha18.fast.mytele.ga&port=443&secret=dd4eebb642057030cbc8d83ee70610beef
 https://t.me/proxy?server=charlie27.cluster.mytele.ga&port=443&secret=dd4eeb9aab0830284ec247e584d778beef
 https://t.me/proxy?server=116.202.22.71&port=1025&secret=dd4eebb642057030cbc8d83ee70610beef
