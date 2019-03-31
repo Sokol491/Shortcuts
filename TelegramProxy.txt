@@ -1,3 +1,4 @@
+https://t.me/proxy?server=Walker.giize.com&port=1088&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=PX.JOHNFREIDA.ML&port=80&secret=00000000000000000000000000000000
 https://t.me/proxy?server=krasiviy.themarfa.online&port=443&secret=dd828b44917e30834040992766a7ed2bbf
 https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=00000000000000000000000000000000
@@ -26,13 +27,8 @@ https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=f20
 https://t.me/proxy?server=Mydanestani1.webredirect.org&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=fastproxy12.casacam.net&port=9959&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=Mydanestani.giize.com&port=1088&secret=00000000000000000000000000000000
-https://t.me/proxy?server=1.mtpir.cf&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
 https://t.me/proxy?server=heay.imtproto.link&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=nr1.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-https://t.me/proxy?server=cdn6.dnsme.ml&port=443&secret=dd4f13d104e705ec7d933a18a89adb18
-https://t.me/proxy?server=ayhan-mojtahed.n4t.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=arshida-gheysari.n4t.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=atash-nabavi.n4t.co&port=1010&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=storm.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 https://t.me/proxy?server=Salvador.giize.com&port=8080&secret=00000000000000000000000000000000
 https://t.me/proxy?server=BestProxy.gleeze.com&port=1088&secret=00000000000000000000000000000000
@@ -42,10 +38,8 @@ https://t.me/proxy?server=ZooroLash.casacam.net&port=9959&secret=000000000000000
 https://t.me/proxy?server=always.imtproto.link&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=faster.imtproto.link&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=Star-Proxy.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
-https://t.me/proxy?server=Pro-Proxy.ddns.net&port=1085&secret=b3f86d0ba96eb824bb2131a7231de133
 https://t.me/proxy?server=Godzila.dynu.com&port=9090&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=HD-Proxy.ddns.net&port=1085&secret=b3f86d0ba96eb824bb2131a7231de133
-https://t.me/proxy?server=Star-MTP.ddns.net&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
 https://t.me/proxy?server=dns2.vavan.ml&port=10032&secret=dddd5d3ad5c9ced7994b97d2dbf4da8d99
 https://t.me/proxy?server=was.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 https://t.me/proxy?server=1028.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
@@ -56,17 +50,9 @@ https://t.me/proxy?server=Ava1458.dynu.com&port=9979&secret=dd000000000000000000
 https://t.me/proxy?server=Cheetah4Ever.tk&port=88&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=newmt.mtproxyis.live&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=2.mtdd.tk&port=443&secret=dd96126bb173dd4d2e853821507d311ab1
-https://t.me/proxy?server=shegeftiha.telmtproto.me&port=1080&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
 https://t.me/proxy?server=proxifast.gq&port=1025&secret=897f7d656153020f50b22a751fe484d4
 https://t.me/proxy?server=cheetah4ever.tk&port=88&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=MahanProxy.mtparty.xyz&port=80&secret=651d5014796e03b5f245c4492ceae6b9
-https://t.me/proxy?server=jackal.mypi.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=proxy-2019.n4t.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=shatel.n4t.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=185.165.28.80&port=1010&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=37.187.222.161&port=80&secret=849fb259957c667343fc322a4b035b0f
-https://t.me/proxy?server=irancell.n4t.co&port=1010&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=fortesty.cf&port=1025&secret=897f7d656153020f50b22a751fe484d4
 https://t.me/proxy?server=best4.myiphost.com&port=443&secret=e10935412df1c48c9a96a3310053ee5f
 https://t.me/proxy?server=main.proxy.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 https://t.me/proxy?server=advance.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
