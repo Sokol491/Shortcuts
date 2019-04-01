@@ -1,3 +1,10 @@
+https://t.me/proxy?server=dg.igr.dog&port=80&secret=dd9c8b6055bfa54133c980bf949495d258
+https://t.me/proxy?server=kstati.sytes.net&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
+https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c818ea2ffb
+https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=vamtlgrm.drproxy.pro&port=1011&secret=d56b62206b7f72baac5e39335bf6faad
+https://t.me/proxy?server=mash.drproxy.pro&port=443&secret=dda5a7b5711e648c7bd534e4e87de2241b
+https://t.me/proxy?server=google.trace-dev.net&port=443&secret=dde50346e56b29854d8d11fbdd394475e8
 https://t.me/proxy?server=Proxy_ok.mtproxy.club&port=1078&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=Full_speed.mtproxy.club&port=1070&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=NUBT0RY.mtproxy.club&port=1008&secret=ddece2827e4f49420059b6cb797849fb84
