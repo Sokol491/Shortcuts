@@ -1,3 +1,13 @@
+https://t.me/proxy?server=novaproxy.n4t.co&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
+https://t.me/proxy?server=51.68.171.247&port=443&secret=526bd207eda4e30c984051c123a4feff
+https://t.me/proxy?server=Better.mtproxy.club&port=1084&secret=ddece2827e4f49420059b6cb797849fb84
+https://t.me/proxy?server=best4.myiphost.com&port=443&secret=e10935412df1c48c9a96a3310053ee5f
+https://t.me/proxy?server=heay.imtproto.link&port=7724&secret=00000000000000000000000000000000
+https://t.me/proxy?server=storm.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=setare.vavan2.cf&port=444&secret=dd0fd0d8beba8807a88e402f973577bea8
+https://t.me/proxy?server=ourproxy.xyz&port=443&secret=dd8d6ab375709ab8f2a18d5602df229602
+https://t.me/proxy?server=188.40.151.181&port=8080&secret=01c9f39057b8d84c16edfab3e9395f79
+https://t.me/proxy?server=anahid.vavan.ml&port=888&secret=dd62283890a8b23a7d6b5fcdef0ee79858
 https://t.me/proxy?server=dg.igr.dog&port=80&secret=dd9c8b6055bfa54133c980bf949495d258
 https://t.me/proxy?server=kstati.sytes.net&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=microscopic.tk&port=443&secret=eec2a79791ba81f4ab0927c818ea2ffb
