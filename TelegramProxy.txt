@@ -1,3 +1,8 @@
+https://t.me/socks?server=94.101.120.226&port=443&user=hotgram&pass=023d5449048214
+https://t.me/proxy?server=irancell.n4t.co&port=1010&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=telegram.tcp4.me&port=1010&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=shatel.n4t.co&port=1010&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=jackal.mypi.co&port=1010&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=best4.myiphost.com&port=443&secret=dde10935412df1c48c9a96a3310053ee5f
 https://t.me/proxy?server=best9.myiphost.com&port=443&secret=dde10935412df1c48c9a96a3310053ee5f
 https://t.me/proxy?server=novaproxy.n4t.co&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
