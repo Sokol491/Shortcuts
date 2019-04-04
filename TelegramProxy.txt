@@ -1,3 +1,5 @@
+https://t.me/proxy?server=proxy.dicknows.xyz&port=443&secret=05e79eefd79336e3ecf691f74afd18bd
+https://t.me/proxy?server=bjy.now-dns.org&port=923&secret=dd054c36b2d9c2eae5518ae3751775e9b8
 https://t.me/proxy?server=97ea21a768.digitalresistance.ovh&port=15&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=free-allow-net.site&port=443&secret=dd7c788c0f7d5be22e3d65c0730a327ac2
 https://t.me/socks?server=s4.shadowsocks.wtf&port=6858&user=user_x4HW&pass=RuaSePpVHAr4qnJd
