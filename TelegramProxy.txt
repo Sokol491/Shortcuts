@@ -50,8 +50,6 @@ https://t.me/proxy?server=russia-dd.proxy.digitalresistance.dog&port=443&secret=
 https://t.me/proxy?server=tginfo.live.ovh&port=2222&secret=dd80b893632dd27e71fd5a37c6abf064b5
 https://t.me/proxy?server=mssg.mtpr.xyz&port=1194&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=cdn1.bjyfamilly.eu&port=946&secret=ddd3c9902dd43e8bfd8cb65fdbeecd090a
-https://t.me/proxy?server=51.15.126.180&port=443&secret=dd4eebb642057030cbc8d83ee70610beef
-https://t.me/proxy?server=51.15.126.180&port=1443&secret=dd4eebb642057030cbc8d83ee70610beef
 https://t.me/proxy?server=mssg.mtpr.xyz&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=116.203.3.20&port=1010&secret=ddee448161f1a0cfaa754d3a0a0c3dae9d
 https://t.me/proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777
