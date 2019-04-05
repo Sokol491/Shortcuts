@@ -1,3 +1,8 @@
+https://t.me/proxy?server=ru.tgproxy.today&port=443&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=ru.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=always.imtproto.link&port=7724&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=active.telmtproto.me&port=1080&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=s4369.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=RotaiL-Proxy.myftp.biz&port=80&secret=dddddddddd445566778899aabbccddeeff
 https://t.me/proxy?server=Khass27.online&port=50&secret=3d415e4a0069819eeb033a151952f586
 https://t.me/proxy?server=fast2.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
@@ -89,8 +94,6 @@ https://t.me/proxy?server=cdn1.bjyfamilly.eu&port=946&secret=ddd3c9902dd43e8bfd8
 https://t.me/proxy?server=mssg.mtpr.xyz&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
 https://t.me/proxy?server=116.203.3.20&port=1010&secret=ddee448161f1a0cfaa754d3a0a0c3dae9d
 https://t.me/proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777
-https://t.me/proxy?server=fast.proxy4free.club&port=8080&secret=dd9c8b6055bfa54133c980bf949495d258
 https://t.me/proxy?server=mymtproto.mypi.co&port=2021&secret=dddd85fe2e9ddcb2e492207e66baf5fb66
 https://t.me/proxy?server=dd.aa.pp.ru&port=8443&secret=dd58cdaf9eaeb2e6f4f1d2a2a1fb30c600
-https://t.me/proxy?server=proxy.kstati.host&port=555&secret=ddbb2753bb20cf1e956aeaaea0e5638b7e
 https://t.me/proxy?server=one.proxytelegram.com&port=8443&secret=dd58cdaf9eaeb2e6f4f1d2a2a1fb30c600
