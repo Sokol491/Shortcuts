@@ -1,3 +1,5 @@
+https://t.me/proxy?server=catalog.likesky.blue&port=443&secret=dd77777777777777777777777777777777
+https://t.me/proxy?server=YAS.mtproxy.club&port=1102&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=SpeedMTproxy.mtproxy.club&port=1107&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=proxifast.gq&port=1025&secret=897f7d656153020f50b22a751fe484d4
 https://t.me/proxy?server=Cheetah4Ever.tk&port=88&secret=dd00000000000000000000000000000000
