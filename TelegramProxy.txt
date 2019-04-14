@@ -1,3 +1,8 @@
+https://t.me/proxy?server=bx.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=miz.vavan2.cf&port=888&secret=dd52a29b13c29383a3a2d53e19ca77aacb
+https://t.me/proxy?server=tala.mtpir.cf&port=520&secret=dd98136bb172dd4d2e853821507d311ab2
+https://t.me/proxy?server=was.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=musicmt.mypi.co&port=443&secret=dd7ff1a917bf675f508b71753e7a786a02
 https://t.me/proxy?server=s951.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=powerful.validmtproto.me.uk&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=megaproxy.n4t.co&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
