@@ -1,3 +1,9 @@
+https://t.me/proxy?server=s951.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=powerful.validmtproto.me.uk&port=7724&secret=00000000000000000000000000000000
+https://t.me/proxy?server=megaproxy.n4t.co&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
+https://t.me/proxy?server=Better.mtproxy.club&port=1084&secret=ddece2827e4f49420059b6cb797849fb84
+https://t.me/proxy?server=Music.telmtproto.me&port=1080&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=Tike-MTP.ddns.net&port=1083&secret=f4359a9b325ff1d1e5084df0e0f7537b
 https://t.me/proxy?server=wild-star-9789.likesky.blue&port=4443&secret=dde2b6a5e498b8622df477a72fe8affe8d
 https://t.me/proxy?server=proxy.ctrs.live&port=555&secret=ddc5fbd32ec2ad98876f53899e9cc7697a
 https://t.me/proxy?server=vamonos.teleproxy.me&port=443&secret=ddec0de00000000000000000000badcafe
