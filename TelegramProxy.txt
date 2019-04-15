@@ -1,3 +1,5 @@
+https://t.me/proxy?server=Perfect.ooguy.com&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=exclusivemyporoxy1.hopto.org&port=1088&secret=00000000000000000000000000000000
 https://t.me/proxy?server=fast-proxy.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=secure.validmtproto.me.uk&port=7724&secret=00000000000000000000000000000000
 https://t.me/proxy?server=bx.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
