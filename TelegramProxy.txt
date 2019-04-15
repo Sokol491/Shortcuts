@@ -1,3 +1,12 @@
+https://t.me/proxy?server=bestproxy.mtproxy.club&port=1068&secret=ddece2827e4f49420059b6cb797849fb84
+https://t.me/proxy?server=pipo.vabineshanam.ir&port=1080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=anti81.aminsasha.eu&port=1026&secret=6b30d0b2a7401fb880377d04d012e449
+https://t.me/proxy?server=highmtproto.serveftp.com&port=5437&secret=dd8a2ac5a1b377626099276f43e7bf4bb4
+https://t.me/proxy?server=195.201.18.29&port=443&secret=ddddb75ddccaf9c7fdf2bfdfca20ddbeef
+https://t.me/proxy?server=beeest.redirectme.net&port=5135&secret=ddc99b21eb4c91ef892ae7f4d9d9ba3393
+https://t.me/proxy?server=Pro-Proxy.ddns.net&port=1085&secret=b3f86d0ba96eb824bb2131a7231de133
+https://t.me/proxy?server=FastMtProxy.mtproxy.club&port=1071&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=s2601.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=ho3ein.imtproto.link&port=1817&secret=00000000000000000000000000000000
 https://t.me/proxy?server=newmtproto.myiphost.com&port=8080&secret=d6ea83c4ff0b161fe2cc4356e45cdc0e
