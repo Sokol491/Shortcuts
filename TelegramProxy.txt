@@ -1,3 +1,8 @@
+https://t.me/proxy?server=free.vk-portal.net&port=1234&secret=dda7909e2e738748da907be48c51f6fdd1
+https://t.me/proxy?server=Star-Proxy.ddns.net&port=1082&secret=ddf207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=Digitalresistance.webredirect.org&port=1080&secret=ddf207f3a3ffd77b5b2ab874709d461e61
+https://t.me/proxy?server=Salvador.giize.com&port=8080&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=bestproxy.mtproxy.club&port=1068&secret=ddece2827e4f49420059b6cb797849fb84
 https://t.me/proxy?server=pipo.vabineshanam.ir&port=1080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=Phonix.dynu.net&port=1088&secret=00000000000000000000000000000000
