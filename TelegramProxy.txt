@@ -1,3 +1,12 @@
+https://t.me/proxy?server=216.173.122.87&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
+https://t.me/proxy?server=216.173.122.101&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
+https://t.me/proxy?server=458c665eda.live.ovh&port=15&secret=ddb67bc26648177a20ccd4e20d1b67d980
+https://t.me/proxy?server=458c665eda.live.ovh&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
+https://t.me/proxy?server=mtproto.tgpxy.xyz&port=777&secret=dd77777777777777777777777777777777
+https://t.me/proxy?server=tginfo.likesky.blue&port=443&secret=dd80b893632dd27e71fd5a37c6abf064b5
+https://t.me/proxy?server=mtp3.likefuck.ru&port=443&secret=958b773eeb283f4cf3c89991d80997a6
+https://t.me/proxy?server=mtp1.likefuck.ru&port=443&secret=1ec7eec68ed144409ef28e7f39e2407b
+https://t.me/proxy?server=Digi.n4t.co&port=88&secret=01010101010101010101010101010101
 https://t.me/proxy?server=server1.bistoon.in&port=443&secret=1632706f2b6ac176b0f9ce0400219a1c
 https://t.me/proxy?server=newghg.myiphost.com&port=443&secret=e10935412df1c48c9a96a3310053ee5f
 https://t.me/proxy?server=Bahram.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
