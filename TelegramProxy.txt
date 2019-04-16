@@ -1,3 +1,9 @@
+https://t.me/proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+https://t.me/proxy?server=della-2.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+https://t.me/proxy?server=della-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+https://t.me/socks?server=deimos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
+https://t.me/socks?server=phobos.public.opennetwork.cc&port=1090&user=314752950&pass=4UsEE6Ot
+https://t.me/proxy?server=proxy.logicplease.xyz&port=443&secret=f65ef217a4e178eb36a445055e1d96b4
 https://t.me/proxy?server=free.vk-portal.net&port=1234&secret=dda7909e2e738748da907be48c51f6fdd1
 https://t.me/proxy?server=Star-Proxy.ddns.net&port=1082&secret=ddf207f3a3ffd77b5b2ab874709d461e62
 https://t.me/proxy?server=Myamazing.dynu.net&port=1088&secret=dd00000000000000000000000000000000
