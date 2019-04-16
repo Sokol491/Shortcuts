@@ -1,3 +1,5 @@
+https://t.me/proxy?server=server1.bistoon.in&port=443&secret=1632706f2b6ac176b0f9ce0400219a1c
+https://t.me/proxy?server=newghg.myiphost.com&port=443&secret=e10935412df1c48c9a96a3310053ee5f
 https://t.me/proxy?server=Bahram.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
 https://t.me/proxy?server=Elyas.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
 https://t.me/proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
