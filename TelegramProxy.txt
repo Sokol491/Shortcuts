@@ -1,3 +1,4 @@
+https://t.me/proxy?server=de.proxy.btcsecure.io&port=443&secret=dde6e72cee91eb56b9b5bc98faa557cdb8
 https://t.me/proxy?server=216.173.122.87&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
 https://t.me/proxy?server=216.173.122.101&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
 https://t.me/proxy?server=458c665eda.live.ovh&port=15&secret=ddb67bc26648177a20ccd4e20d1b67d980
