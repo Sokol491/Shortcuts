@@ -1,3 +1,6 @@
+https://t.me/proxy?server=s4445.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=htz1.hsp-proxy.eu&port=7724&secret=78aaeded5dc23ad05fbc7171ac0a05d9
+https://t.me/proxy?server=s407.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=lucky-morning-2724.likesky.blue&port=443&secret=dd0f685f79eef99decf29efd9a68acf2a5
 https://t.me/proxy?server=s4435.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=dirindirin.telmtproto.me&port=1080&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
