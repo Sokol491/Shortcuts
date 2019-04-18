@@ -1,3 +1,9 @@
+https://t.me/proxy?server=stable.turistcoin.icu&port=21098&secret=e204bfae69502645795296492b9a5a32
+https://t.me/proxy?server=216.173.85.42&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
+https://t.me/proxy?server=s4198.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1679.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3222.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3015.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s4445.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=htz1.hsp-proxy.eu&port=7724&secret=78aaeded5dc23ad05fbc7171ac0a05d9
 https://t.me/proxy?server=s407.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
