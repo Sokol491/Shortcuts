@@ -1,3 +1,9 @@
+https://t.me/proxy?server=proxycenters.64-b.it&port=6968&secret=b3092141f6e48c83846ce86f71861c97
+https://t.me/proxy?server=proxy.dnsup.net&port=1088&secret=dd21e4763a9865bb58f49581aa1479880e
+https://t.me/proxy?server=ir.Proxyme.cf&port=443&secret=dd726564736869656c6476706e2e636f6d
+https://t.me/proxy?server=mtns1.dnsme.ml&port=443&secret=dd4f13d104e705ec7d933a18a89adb18
+https://t.me/proxy?server=s1931.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s396.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=bration.cx354.ml&port=1023&secret=dd000000000000000000000000000000
 https://t.me/proxy?server=s2428.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s483.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
