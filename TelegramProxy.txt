@@ -1,3 +1,11 @@
+https://t.me/proxy?server=s483.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s2344.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1339.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1984.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3833.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1220.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s140.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1048.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=arthur.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
 https://t.me/proxy?server=PowerfulProxy.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
 https://t.me/proxy?server=s4251.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
