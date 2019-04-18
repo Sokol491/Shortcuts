@@ -1,3 +1,5 @@
+https://t.me/proxy?server=bration.cx354.ml&port=1023&secret=dd000000000000000000000000000000
+https://t.me/proxy?server=s2428.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s483.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s2344.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s1339.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
