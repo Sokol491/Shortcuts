@@ -1,3 +1,11 @@
+https://t.me/proxy?server=publicproxy.mypi.co&port=443&secret=c254a2b7f3080ac6ff9465eef8e646e3
+https://t.me/proxy?server=advance.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
+https://t.me/proxy?server=ir.proxyme.cf&port=8443&secret=dd726564736869656c6476706e2e636f6d
+https://t.me/proxy?server=publicproxy.32-b.it&port=443&secret=c254a2b7f3080ac6ff9465eef8e646e3
+https://t.me/proxy?server=s2460.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s561.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s550.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s2844.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=speed-server.ddns.net&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=s2830.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s2212.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
