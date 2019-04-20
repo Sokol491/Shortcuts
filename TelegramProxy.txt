@@ -1,3 +1,17 @@
+https://t.me/proxy?server=iran.proxytelegram.com&port=443&secret=dd11cdaf9eaeb2e6f4f1d2a1a1fb30c100
+https://t.me/proxy?server=s940.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s470.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1792.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s4331.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s938.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s4729.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s4999.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3855.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s1899.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3655.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s2570.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3523.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3258.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=publicproxy.mypi.co&port=443&secret=c254a2b7f3080ac6ff9465eef8e646e3
 https://t.me/proxy?server=advance.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
 https://t.me/proxy?server=ir.proxyme.cf&port=8443&secret=dd726564736869656c6476706e2e636f6d
