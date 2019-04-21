@@ -1,3 +1,5 @@
+https://t.me/proxy?server=iranian.proxytelegram.com&port=443&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
+https://t.me/proxy?server=n262.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=f4072.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s1186.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s3043.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
