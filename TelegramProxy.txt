@@ -1,3 +1,7 @@
+https://t.me/proxy?server=proxi-fast.ga&port=1025&secret=897f7d656153020f50b22a751fe484d4
+https://t.me/proxy?server=linkh0use.zapto.org&port=2001&secret=dd092141f6e48c83846ce86f71861c97
+https://t.me/proxy?server=beer.cx354.ml&port=1176&secret=dd175d6d7f8bd09dc73b11edbdcdbdd4
+https://t.me/proxy?server=tala.mtpir.cf&port=2626&secret=dd96126bb173dd4d2e853821507d311ab2
 https://t.me/proxy?server=iranian.proxytelegram.com&port=443&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=n262.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=f4072.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
