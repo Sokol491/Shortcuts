@@ -1,3 +1,5 @@
+https://t.me/proxy?server=Danestani.mywire.org&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=fastproxy.dynip.org&port=88&secret=9245a393d02b795aeea4450ce5c56bc7
 https://t.me/proxy?server=e5050.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=3oda.imtproto.link&port=1818&secret=00000000000000000000000000000000
 https://t.me/proxy?server=zedefilter1.64-b.it&port=6968&secret=b3092141f6e48c83846ce86f71861c97
