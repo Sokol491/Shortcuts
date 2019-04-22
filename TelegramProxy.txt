@@ -1,3 +1,4 @@
+https://t.me/proxy?server=f4805.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s559.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=f4466.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=yea.imtproto.link&port=443&secret=00000000000000000000000000000000
