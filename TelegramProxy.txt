@@ -1,3 +1,15 @@
+https://t.me/proxy?server=tg.proxy.btcsecure.io&port=443&secret=dd73f664a135d9cce8e56b0f8747826957
+https://t.me/proxy?server=n431.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=f2404.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=107.174.20.113&port=2082&secret=dd5330ab8d832fd51ac7e5446ebb4332
+https://t.me/proxy?server=f3423.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s4132.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=p4202.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=n2306.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=f4869.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=s3706.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=157.230.120.108&port=88&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=95.216.208.218&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
 https://t.me/proxy?server=1883c2.fckrknbot.club&port=1194&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=1883c2.fckrknbot.club&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/socks?server=1883c2.fckrknbot.club&port=443&user=user_314752950&pass=i7vhz3D45loN
