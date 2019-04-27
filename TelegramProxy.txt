@@ -1,3 +1,6 @@
+https://t.me/proxy?server=small-fire-2390.likesky.blue&port=1443&secret=dd3ac6b2afd9f4505e20c0dc3a8eb80388
+https://t.me/socks?server=exp1.s5overss.mtpro.xyz&port=39610&user=mtpro_xyz&pass=mtpro_xyz_bot
+https://t.me/proxy?server=server1.bistoon.in&port=443&secret=dd1632706f2b6ac176b0f9ce0400219a1c
 https://t.me/proxy?server=lucky-morning-2724.likesky.blue&port=443&secret=dd0f685f79eef99decf29efd9a68acf2a5
 https://t.me/proxy?server=hot.hottester.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=ddooxxi.tgproxy.network&port=8443&secret=dd726564736869656c6476706e2e636f6d
