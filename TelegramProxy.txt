@@ -1,3 +1,4 @@
+https://t.me/proxy?server=stable.turistcoin.icu&port=21098&secret=dde204bfae69502645795296492b9a5a32
 https://t.me/proxy?server=s2426.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=199.247.0.71&port=1443&secret=dd3ac6b2afd9f4505e20c0dc3a8eb80388
 https://t.me/proxy?server=ir2.hotmtp.tk&port=443&secret=dddd4f13d104e705ec7d933a18a89adb18
