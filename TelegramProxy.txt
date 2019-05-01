@@ -1,3 +1,10 @@
+https://t.me/proxy?server=Mydanestani1.webredirect.org&port=1088&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=ru.mtsocksy.seriyps.ru&port=4430&secret=a7e9d1ec2052af06d2641f4be7c8a593
+https://t.me/proxy?server=ctrs2018.work&port=4000&secret=45caf9f7cc7106c826aaa2a229cad589
+https://t.me/proxy?server=easyapk.zapto.org&port=555&secret=dd5778492bdfc0059ca201ba8d64b2d9f4
+https://t.me/proxy?server=proxy.tgraph.io&port=6443&secret=e4b7e196fe87824d5367e49539d55269
+https://t.me/proxy?server=alter.black.mdrpr.ga&port=443&secret=ddf1344be42a63e007a282ce0a3aa86705
+https://t.me/proxy?server=185.251.39.42&port=443&secret=87b293abf9f8ac56d7be3f997a1587c3
 https://t.me/proxy?server=stable.turistcoin.icu&port=21098&secret=dde204bfae69502645795296492b9a5a32
 https://t.me/proxy?server=s2426.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=199.247.0.71&port=1443&secret=dd3ac6b2afd9f4505e20c0dc3a8eb80388
@@ -47,7 +54,6 @@ https://t.me/proxy?server=f4805.hotspotproxy.tk&port=443&secret=dd00000000000000
 https://t.me/proxy?server=s559.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=f4466.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=yea.imtproto.link&port=443&secret=00000000000000000000000000000000
-https://t.me/proxy?server=5.253.24.111&port=1817&secret=00000000000000000000000000000000
 https://t.me/proxy?server=f939.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=n4628.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s963.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
@@ -56,7 +62,6 @@ https://t.me/proxy?server=fastproxy.dynip.org&port=88&secret=9245a393d02b795aeea
 https://t.me/proxy?server=e5050.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=3oda.imtproto.link&port=1818&secret=00000000000000000000000000000000
 https://t.me/proxy?server=zedefilter1.64-b.it&port=6968&secret=b3092141f6e48c83846ce86f71861c97
-https://t.me/proxy?server=51.38.87.130&port=21098&secret=e204bfae69502645795296492b9a5a32
 https://t.me/proxy?server=f4454.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=russia.proxytelegram.com&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74
 https://t.me/proxy?server=proxi-fast.ga&port=1025&secret=897f7d656153020f50b22a751fe484d4
