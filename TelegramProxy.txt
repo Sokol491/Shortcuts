@@ -1,3 +1,9 @@
+https://t.me/socks?server=89.248.160.139&port=9050
+https://t.me/socks?server=78.47.60.141&port=1080
+https://t.me/socks?server=54.39.16.26&port=64879
+https://t.me/socks?server=54.39.16.26&port=39381
+https://t.me/socks?server=54.38.81.12&port=53833
+https://t.me/socks?server=104.238.177.118&port=443
 https://t.me/proxy?server=Mydanestani1.webredirect.org&port=1088&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=ru.mtsocksy.seriyps.ru&port=4430&secret=a7e9d1ec2052af06d2641f4be7c8a593
 https://t.me/proxy?server=ctrs2018.work&port=4000&secret=45caf9f7cc7106c826aaa2a229cad589
