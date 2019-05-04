@@ -1,3 +1,6 @@
+https://t.me/proxy?server=109.234.37.72&port=443&secret=89c61a06062f90d26461594b1663e63d
+https://t.me/proxy?server=j490.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=j222.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=j1387.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=bishouri.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=j1530.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
@@ -12,9 +15,6 @@ https://t.me/proxy?server=j1862.hotspotproxy.cf&port=443&secret=dd00000000000000
 https://t.me/proxy?server=j573.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=speed.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
 https://t.me/proxy?server=advance.mtproto.world&port=443&secret=ddbc475fdd1e87e6a105f9967fe9d40651
-https://t.me/proxy?server=116.202.5.22&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
-https://t.me/proxy?server=116.202.4.230&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
-https://t.me/proxy?server=139.59.14.84&port=88&secret=10101010101010101010101010101010
 https://t.me/proxy?server=j1527.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=tommy.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
 https://t.me/proxy?server=kianproxy.64-b.it&port=80&secret=b3092141f6e48c83846ce86f71861c97
@@ -24,11 +24,7 @@ https://t.me/proxy?server=j4193.hotspotproxy.tk&port=443&secret=dd00000000000000
 https://t.me/proxy?server=j249.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=j2973.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=turbo.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
-https://t.me/socks?server=89.248.160.139&port=9050
 https://t.me/socks?server=78.47.60.141&port=1080
-https://t.me/socks?server=54.39.16.26&port=64879
-https://t.me/socks?server=54.39.16.26&port=39381
-https://t.me/socks?server=54.38.81.12&port=53833
 https://t.me/socks?server=104.238.177.118&port=443
 https://t.me/proxy?server=Mydanestani1.webredirect.org&port=1088&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=ru.mtsocksy.seriyps.ru&port=4430&secret=a7e9d1ec2052af06d2641f4be7c8a593
@@ -70,8 +66,6 @@ https://t.me/proxy?server=p4202.hotspotproxy.cf&port=443&secret=dd00000000000000
 https://t.me/proxy?server=n2306.hotspotproxy.cf&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=f4869.hotspotproxy.gq&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=s3706.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=157.230.120.108&port=88&secret=dd00000000000000000000000000000000
-https://t.me/proxy?server=95.216.208.218&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
 https://t.me/proxy?server=1883c2.fckrknbot.club&port=1194&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/proxy?server=1883c2.fckrknbot.club&port=500&secret=ddf48f621b110f302e468756840c29f916
 https://t.me/socks?server=1883c2.fckrknbot.club&port=443&user=user_314752950&pass=i7vhz3D45loN
