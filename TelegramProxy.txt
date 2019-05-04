@@ -1,3 +1,17 @@
+https://t.me/proxy?server=j2694.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=159.69.243.218&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=116.203.128.217&port=1082&secret=f207f3a3ffd77b5b2ab874709d461e62
+https://t.me/proxy?server=server.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=ton.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=PowerfulProxy.me&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=club.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=Active.PowerfulProxy.me&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=newexo.yaghi.club&port=2000&secret=dd2ee0f5a3031ef06b71bcdbcd552d692d
+https://t.me/proxy?server=connect.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=89.145.161.211&port=88&secret=00000000000000000000000000000000
+https://t.me/proxy?server=zeynab.srvercol.info&port=443&secret=dd01010101010101010101010101010101
+https://t.me/proxy?server=xd.telmtproto.club&port=1088&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+https://t.me/proxy?server=fast.for-all.tk&port=80&secret=dd9aad9d36ecf959bdb5e792f4a5be948d
 https://t.me/proxy?server=109.234.37.72&port=443&secret=89c61a06062f90d26461594b1663e63d
 https://t.me/proxy?server=j490.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=j222.hotspotproxy.ga&port=443&secret=dd00000000000000000000000000000000
