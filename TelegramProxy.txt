@@ -1,3 +1,7 @@
+https://t.me/socks?server=a.proxy-forall.tk&port=443&user=proxy.forall&pass=forall
+https://t.me/socks?server=79.143.85.90&port=443&user=28&pass=28
+https://t.me/proxy?server=noranp.xyz&port=443&secret=dd8d6ab375709ab8f2a18d5602df229602
+https://t.me/socks?server=regrambot.cf&port=1551&user=532677298&pass=%40regrambot
 https://t.me/proxy?server=j1031.hotspotproxy.tk&port=443&secret=dd00000000000000000000000000000000
 https://t.me/proxy?server=ir.proxyme.cf&port=8443&secret=dd726564736869656c6476706e2e636f6d
 https://t.me/proxy?server=RotaiL-Proxy.hopto.org&port=8443&secret=dd726564736869656c6476706e2e636f6d
