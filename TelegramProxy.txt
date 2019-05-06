@@ -1,3 +1,15 @@
+https://t.me/proxy?server=russia.proxy.digitalresistance.dog&port=443&secret=ddd41d8cd98f00b204e9800998ecf8427e
+https://t.me/proxy?server=195.231.70.62&port=88&secret=10101010101010101010101010101010
+https://t.me/proxy?server=51.89.150.3&port=443&secret=ddfe93f6846aa1b693ec9ccec368c2fb88
+https://t.me/proxy?server=51.89.150.3&port=443&secret=fe93f6846aa1b693ec9ccec368c2fb88
+https://t.me/proxy?server=Jackal.mywire.org&port=1088&secret=00000000000000000000000000000000
+https://t.me/proxy?server=vavanproxy2.n4t.co&port=666&secret=dd903ede6f8a411664dd9b050533502058
+https://t.me/proxy?server=195.231.2.102&port=88&secret=00000000000000000000000000000000
+https://t.me/proxy?server=1.imtproto.pro&port=443&secret=dd8b2394ad2ecef7e607d5f52b31a45768
+https://t.me/proxy?server=134.209.206.25&port=443&secret=d187acd43c7f6bb4afcb641e945c5174
+https://t.me/proxy?server=bmw.mtproxies.tk&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=j4827.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=195.231.2.158&port=88&secret=00000000000000000000000000000000
 https://t.me/proxy?server=pro2.hotmtp.tk&port=443&secret=dddd4f13d104e705ec7d933a18a89adb18
 https://t.me/proxy?server=1.behtarin.tk&port=80&secret=dd16ee854211b3553d474f42055e0c10ad
 https://t.me/proxy?server=j1503.hotspotproxy.ml&port=443&secret=dd00000000000000000000000000000000
