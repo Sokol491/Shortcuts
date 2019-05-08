@@ -1,3 +1,8 @@
+https://t.me/proxy?server=195.231.70.173&port=88&secret=dd00000000000000000000000000000000
+https://t.me/proxy?server=DrLinux.mtparty.xyz&port=1010&secret=10101010101010101010101010101010
+https://t.me/proxy?server=proxy.dti.team&port=443&secret=4238a7ac5592269805c169e119567cbb
+https://t.me/proxy?server=23.95.52.115&port=3256&secret=0123456789abcdef0123456789abcdef
+https://t.me/socks?server=a.proxy-forall.tk&port=443&user=proxy.forall&pass=proxy_forall
 https://t.me/proxy?server=SpeedMtproto.teleorg.net&port=483&secret=00000000000000000000000000000000
 https://t.me/proxy?server=ir.tgproxy.exchange&port=8443&secret=726564736869656c6476706e2e636f6d
 https://t.me/socks?server=r432.tgproxy.run&port=1080&user=telegram&pass=telegram
