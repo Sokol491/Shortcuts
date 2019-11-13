@@ -1,3 +1,4 @@
+https://t.me/proxy?server=f225cb.FCKRKNbot.asnaeb.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=proxiandvpn.duckdns.org&port=443&secret=ddeee1d6c58ab9925aab04acfbe679f222fa616c6578626572732e636f6d
 https://t.me/proxy?server=94.103.95.7&port=443&secret=ddeee1d6c58ab9925aab04acfbe679f222fa616c6578626572732e636f6d
 https://t.me/proxy?server=yet.live.ovh&port=443&secret=7nJrbiBodXkgc29zaXRlOilnb29nbGUuY29t
